@@ -1,0 +1,383 @@
+city,unidade,lat,lng,country,iso2,state_name,state_id,population,population_proper,fatur,compras,funcion,clientes,chamados,status,modelo
+S?o Paulo,S?o Paulo,"-23,573252","-46,641681",Brazil,BR,S?o Paulo,SP,18845000,10021295,9898989,155037,31,527,16,A,premium
+Salvador,Salvador,"-12,983333","-38,516667",Brazil,BR,Bahia,BA,3484000,2678845,521062,52106,13,228,7,A,premium
+Bras?lia,Bras?lia,"-15,783333","-47,916667",Brazil,BR,Distrito Federal,DF,3716996,2562963,6521,652,16,273,8,A,premium
+Belo Horizonte,Belo Horizonte,"-19,901739","-43,964196",Brazil,BR,Minas Gerais,MG,5575000,2373224,830256,83026,20,333,10,A,premium
+Fortaleza,Fortaleza,"-3,737464","-38,546167",Brazil,BR,Cear?,CE,3602319,2315116,352645,35265,10,171,5,A,premium
+Rio de Janeiro,Rio de Janeiro,"-22,875113","-43,277548",Brazil,BR,Rio de Janeiro,RJ,11748000,2010175,950256,95026,22,374,11,A,premium
+Manaus,Manaus,"-3,113333","-60,025278",Brazil,BR,Amazonas,AM,1753000,1520244,65485,6549,4,73,2,A,smart
+Curitiba,Curitiba,"-25,4295963","-49,2712724",Brazil,BR,Paran?,PR,3084000,1498860,321564,32156,9,160,5,A,premium
+Recife,Recife,"-8,0584933","-34,8848193",Brazil,BR,Pernambuco,PE,3651000,1478098,542658,54266,14,236,7,A,premium
+Bel?m,Bel?m,"-1,437281","-48,470614",Brazil,BR,Par?,PA,2167000,1407737,412523,41252,11,191,6,A,premium
+Porto Alegre,Porto Alegre,"-30,0324999","-51,2303767",Brazil,BR,Rio Grande do Sul,RS,3917000,1372741,754125,75413,18,307,9,A,premium
+Goi?nia,Goi?nia,"-16,701028","-49,266793",Brazil,BR,Goi?s,GO,2022000,1171195,5321,532,4,69,2,A,premium
+Campinas,Campinas,"-22,909474","-47,067415",Brazil,BR,S?o Paulo,SP,2791000,1031554,856254,85625,20,342,10,A,premium
+Natal AM,Natal AM,"-6,983333","-60,283333",Brazil,BR,Amazonas,AM,980588,980588,32567,3257,4,62,2,A,smart
+Macei?,Macei?,"-9,652406","-35,722433",Brazil,BR,Alagoas,AL,1186000,814431,65325,6533,4,73,2,A,smart
+Natal RN,Natal RN,"-5,80021","-35,210669",Brazil,BR,Rio Grande do Norte,RN,1088000,763043,21212,2121,3,58,2,A,smart
+Santo Andr?,Santo Andr?,"-23,666667","-46,516667",Brazil,BR,S?o Paulo,SP,662373,662373,0,0,0,0,0,I,premium
+Jaboat?o,Jaboat?o,"-8,116667","-35,016667",Brazil,BR,Pernambuco,PE,702621,659807,0,0,0,0,0,N,express
+Jo?o Pessoa,Jo?o Pessoa,"-7,123742","-34,865646",Brazil,BR,Para?ba,PB,956000,650883,0,0,0,0,0,I,smart
+S?o Jos? dos Campos,S?o Jos? dos Campos,"-23,191165","-45,878405",Brazil,BR,S?o Paulo,SP,753769,636876,0,0,0,0,0,N,premium
+Campo Grande,Campo Grande,"-20,4640173","-54,6162947",Brazil,BR,Mato Grosso do Sul,MS,778000,597446,0,0,0,0,0,N,smart
+Teresina,Teresina,"-5,102887","-42,801549",Brazil,BR,Piau?,PI,907000,586721,0,0,0,0,0,I,smart
+Sorocaba,Sorocaba,"-23,501667","-47,458056",Brazil,BR,S?o Paulo,SP,563281,558862,25125,2513,4,60,2,A,premium
+Ribeir?o Pr?to,Ribeir?o Pr?to,"-21,179426","-47,799874",Brazil,BR,S?o Paulo,SP,551267,490281,65412,6541,4,73,2,A,premium
+Aracaju,Aracaju,"-10,916667","-37,066667",Brazil,BR,Sergipe,SE,685356,490175,0,0,0,0,0,I,smart
+Niter?i,Niter?i,"-22,887107","-43,090889",Brazil,BR,Rio de Janeiro,RJ,1500513,487327,54125,5413,4,69,2,A,smart
+Londrina,Londrina,"-23,3112878","-51,1595023",Brazil,BR,Paran?,PR,520238,471832,47854,4785,4,67,2,A,premium
+Juiz de Fora,Juiz de Fora,"-21,762152","-43,348105",Brazil,BR,Minas Gerais,MG,470193,459336,0,0,0,0,0,I,smart
+Joinville,Joinville,"-26,3044898","-48,8486726",Brazil,BR,Santa Catarina,SC,988000,433475,26542,2654,4,60,2,A,smart
+Feira de Santana,Feira de Santana,"-12,255514","-38,965922",Brazil,BR,Bahia,BA,481911,416478,26589,2659,3,52,2,A,express
+Santos,Santos,"-23,952906","-46,356071",Brazil,BR,S?o Paulo,SP,1709000,411403,98562,9856,5,85,3,A,smart
+Uberl?ndia,Uberl?ndia,"-18,915404","-48,272587",Brazil,BR,Minas Gerais,MG,563536,406188,96512,9651,5,84,3,A,premium
+Cuiab?,Cuiab?,"-15,5986686","-56,0991301",Brazil,BR,Mato Grosso,MT,806000,400287,0,0,0,0,0,I,smart
+Olinda,Olinda,"-7,9986401","-34,8459552",Brazil,BR,Pernambuco,PE,921840,397268,25645,2565,4,60,2,A,smart
+Caxias do Sul,Caxias do Sul,"-29,1689","-51,1785",Brazil,BR,Rio Grande do Sul,RS,381270,373891,0,0,0,0,0,N,smart
+Campos,Campos,"-21,752274","-41,330444",Brazil,BR,Rio de Janeiro,RJ,387417,370469,65458,6546,3,53,2,A,smart
+Macap?,Macap?,"0,035158","-51,061633",Brazil,BR,Amap?,AP,499166,368397,65987,6599,4,73,2,A,express
+Campina Grande,Campina Grande,"-7,224606","-35,873019",Brazil,BR,Para?ba,PB,417261,348936,0,0,0,0,0,N,express
+S?o Jos? do Rio Pr?to,S?o Jos? do Rio Pr?to,"-20,810359","-49,380933",Brazil,BR,S?o Paulo,SP,374699,341788,98564,9856,3,54,2,A,express
+Canoas,Canoas,"-29,933333","-51,183333",Brazil,BR,Rio Grande do Sul,RS,600000,333322,0,0,0,0,0,N,express
+Jundia?,Jundia?,"-23,195965","-46,875764",Brazil,BR,S?o Paulo,SP,505548,321589,51258,5126,4,68,2,A,premium
+Piracicaba,Piracicaba,"-22,727405","-47,644829",Brazil,BR,S?o Paulo,SP,342209,316851,69874,6987,3,53,2,A,express
+Vit?ria,Vit?ria,"-20,332179","-40,345011",Brazil,BR,Esp?rito Santo,ES,1704000,312656,36521,3652,4,63,2,A,smart
+Maring?,Maring?,"-23,416667","-51,916667",Brazil,BR,Paran?,PR,328335,311724,0,0,0,0,0,N,express
+Foz do Igua?u,Foz do Igua?u,"-25,5401479","-54,5858139",Brazil,BR,Paran?,PR,440455,293523,0,0,0,0,0,N,express
+Bauru,Bauru,"-22,323868","-49,078035",Brazil,BR,S?o Paulo,SP,335024,280835,56985,5699,3,54,2,A,smart
+S?o Jos? dos Pinhais,S?o Jos? dos Pinhais,"-25,531815","-49,199755",Brazil,BR,Paran?,PR,665063,279297,0,0,0,0,0,I,smart
+Blumenau,Blumenau,"-26,915555","-49,093608",Brazil,BR,Santa Catarina,SC,293949,278703,65656,6566,3,52,2,A,express
+Pelotas,Pelotas,"-31,766667","-52,333333",Brazil,BR,Rio Grande do Sul,RS,320674,277866,98989,9899,4,70,2,A,express
+Vila Velha ES,Vila Velha ES,"-20,333333","-40,283333",Brazil,BR,Esp?rito Santo,ES,1209091,275736,67584,6758,4,74,2,A,smart
+Vila Velha AP,Vila Velha AP,"3,215464","-51,230103",Brazil,BR,Amap?,AP,1209091,275736,51654,5165,4,69,2,A,smart
+P?rto Velho,P?rto Velho,"-8,7494525","-63,8735438",Brazil,BR,Rond?nia,RO,306180,272889,54545,5455,3,53,2,A,express
+Petr?polis,Petr?polis,"-22,497469","-43,162728",Brazil,BR,Rio de Janeiro,RJ,286071,272691,58585,5859,3,51,2,A,smart
+Montes Claros,Montes Claros,"-16,732458","-43,861363",Brazil,BR,Minas Gerais,MG,332379,267665,99999,7575,3,54,2,A,express
+Rio Branco,Rio Branco,"-9,9765362","-67,8220778",Brazil,BR,Acre,AC,257642,257642,89789,8979,3,53,2,A,express
+Franca,Franca,"-20,540028","-47,395452",Brazil,BR,S?o Paulo,SP,305041,257258,45454,4545,3,54,2,A,express
+Taubat?,Taubat?,"-23,024869","-45,551515",Brazil,BR,S?o Paulo,SP,403560,251641,51548,5155,4,69,2,A,premium
+Ponta Grossa,Ponta Grossa,"-25,0891685","-50,1601812",Brazil,BR,Paran?,PR,292177,250466,0,0,0,0,0,I,express
+Volta Redonda,Volta Redonda,"-22,514005","-44,109594",Brazil,BR,Rio de Janeiro,RJ,456362,249580,0,0,0,0,0,I,smart
+An?polis,An?polis,"-16,326132","-48,950624",Brazil,BR,Goi?s,GO,319587,237604,0,0,0,0,0,I,express
+Novo Hamburgo,Novo Hamburgo,"-29,683333","-51,133333",Brazil,BR,Rio Grande do Sul,RS,876990,237044,0,0,0,0,0,I,smart
+Vit?ria da Conquista,Vit?ria da Conquista,"-14,860602","-40,842659",Brazil,BR,Bahia,BA,308204,236437,0,0,0,0,0,I,express
+Caruaru,Caruaru,"-8,283806","-35,974222",Brazil,BR,Pernambuco,PE,242094,235371,84945,8495,3,54,2,A,express
+V?rzea Grande,V?rzea Grande,"-15,645816","-56,132218",Brazil,BR,Mato Grosso,MT,249752,234424,45458,4546,3,53,2,A,express
+Santa Maria,Santa Maria,"-29,6860512","-53,8069214",Brazil,BR,Rio Grande do Sul,RS,249219,229204,87878,8788,3,53,2,A,express
+Ipatinga,Ipatinga,"-19,470369","-42,546578",Brazil,BR,Minas Gerais,MG,407894,228746,29295,293,4,70,2,A,express
+Juazeiro do Norte,Juazeiro do Norte,"-7,211555","-39,314199",Brazil,BR,Cear?,CE,225230,220492,56565,5657,4,70,2,A,express
+Uberaba,Uberaba,"-19,75619","-47,932585",Brazil,BR,Minas Gerais,MG,260843,208771,65658,6566,3,53,2,A,express
+Itabuna,Itabuna,"-14,78648","-39,272775",Brazil,BR,Bahia,BA,221938,205660,0,0,0,0,0,I,express
+Timon,Timon,"-5,098189","-42,835108",Brazil,BR,Maranh?o,MA,203157,203157,87879,8788,3,53,2,A,express
+Mossor?,Mossor?,"-5,191389","-37,344722",Brazil,BR,Rio Grande do Norte,RN,202583,202005,78788,7879,4,68,2,A,express
+Cascavel,Cascavel,"-24,9554996","-53,4560544",Brazil,BR,Paran?,PR,257172,201428,85698,857,3,54,2,A,express
+Palmas TO,Palmas TO,"-10,166944","-48,332778",Brazil,BR,Tocantins,TO,235315,196272,49857,4986,5,80,2,A,express
+Americana,Americana,"-22,752784","-47,330147",Brazil,BR,S?o Paulo,SP,479472,196022,0,0,0,0,0,I,smart
+Petrolina,Petrolina,"-9,392996","-40,507734",Brazil,BR,Pernambuco,PE,260985,194650,0,0,0,0,0,I,express
+Limeira,Limeira,"-22,563182","-47,400884",Brazil,BR,S?o Paulo,SP,289665,192477,0,0,0,0,0,I,express
+Presidente Prudente,Presidente Prudente,"-22,116667","-51,366667",Brazil,BR,S?o Paulo,SP,209502,189942,0,0,0,0,0,I,express
+Santar?m,Santar?m,"-2,435899","-54,715599",Brazil,BR,Par?,PA,230428,189047,88888,8889,4,71,2,A,express
+Sete Lagoas,Sete Lagoas,"-19,458338","-44,236618",Brazil,BR,Minas Gerais,MG,201334,188730,54546,5455,3,53,2,A,express
+Imperatriz,Imperatriz,"-5,522465","-47,4745",Brazil,BR,Maranh?o,MA,218106,188573,0,0,0,0,0,I,express
+Rio Claro,Rio Claro,"-22,40619","-47,557706",Brazil,BR,S?o Paulo,SP,180147,175273,58586,5859,3,52,2,A,express
+Mar?lia,Mar?lia,"-22,214393","-49,948493",Brazil,BR,S?o Paulo,SP,212218,169949,0,0,0,0,0,I,express
+Boa Vista,Boa Vista,"2,820842","-60,671312",Brazil,BR,Roraima,RR,235150,169449,79798,798,4,70,2,A,express
+Divin?polis,Divin?polis,"-20,149747","-44,889643",Brazil,BR,Minas Gerais,MG,193832,169082,0,0,0,0,0,N,express
+Arapiraca,Arapiraca,"-9,750035","-36,659731",Brazil,BR,Alagoas,AL,187668,166562,56566,5657,3,52,2,A,express
+Marab?,Marab?,"-5,340677","-49,095483",Brazil,BR,Par?,PA,166182,166182,65659,6566,3,53,2,A,express
+Barra Mansa,Barra Mansa,"-22,54925","-44,168807",Brazil,BR,Rio de Janeiro,RJ,169386,164052,0,0,0,0,0,N,express
+Cachoeiro de Itapemirim,Cachoeiro de Itapemirim,"-20,852906","-41,1192",Brazil,BR,Esp?rito Santo,ES,187019,162598,0,0,0,0,0,N,express
+Ara?atuba,Ara?atuba,"-21,207992","-50,4390225",Brazil,BR,S?o Paulo,SP,170024,162586,0,0,0,0,0,I,smart
+Crici?ma,Crici?ma,"-28,675355","-49,368291",Brazil,BR,Santa Catarina,SC,204217,161954,0,0,0,0,0,I,express
+Itaja?,Itaja?,"-26,934507","-48,629481",Brazil,BR,Santa Catarina,SC,327126,155716,98985,9899,3,53,2,A,express
+Ilh?us,Ilh?us,"-14,788949","-39,046474",Brazil,BR,Bahia,BA,230622,155499,77777,7778,4,71,2,A,express
+Nova Friburgo,Nova Friburgo,"-22,28372","-42,534343",Brazil,BR,Rio de Janeiro,RJ,171991,153361,0,0,0,0,0,N,express
+Governador Valadares,Governador Valadares,"-18,861269","-41,951338",Brazil,BR,Minas Gerais,MG,250878,151756,59595,596,4,70,2,A,express
+Chapec?,Chapec?,"-27,0922364","-52,6166878",Brazil,BR,Santa Catarina,SC,160157,149431,45459,4546,3,54,2,A,express
+Passo Fundo,Passo Fundo,"-28,2550598","-52,3966606",Brazil,BR,Rio Grande do Sul,RS,179529,148565,0,0,0,0,0,I,express
+S?o Carlos,S?o Carlos,"-22,015403","-47,888001",Brazil,BR,S?o Paulo,SP,205035,145403,0,0,0,0,0,I,express
+Rondon?polis,Rondon?polis,"-16,46793","-54,641416",Brazil,BR,Mato Grosso,MT,152912,140676,54546,5455,3,54,2,A,express
+Sobral,Sobral,"-3,686716","-40,351535",Brazil,BR,Cear?,CE,157996,138883,78788,7879,3,54,2,A,express
+Itu,Itu,"-23,267424","-47,294306",Brazil,BR,S?o Paulo,SP,320170,137586,56565,5657,16,274,8,A,express
+Caxias,Caxias,"-4,867909","-43,362745",Brazil,BR,Maranh?o,MA,134640,134640,52526,5253,3,51,2,A,express
+Paranagu?,Paranagu?,"-25,512773","-48,542707",Brazil,BR,Paran?,PR,141013,129129,0,0,0,0,0,N,express
+Jaragu? do Sul,Jaragu? do Sul,"-26,483333","-49,066667",Brazil,BR,Santa Catarina,SC,130130,127477,0,0,0,0,0,N,express
+Jequi?,Jequi?,"-13,8604033","-40,0719627",Brazil,BR,Bahia,BA,135574,127475,51516,5152,3,52,2,A,express
+Dourados,Dourados,"-22,2206145","-54,812208",Brazil,BR,Mato Grosso do Sul,MS,162202,127285,59596,596,3,54,2,A,express
+Bragan?a Paulista,Bragan?a Paulista,"-22,9520235","-46,5418586",Brazil,BR,S?o Paulo,SP,127676,125096,0,0,0,0,0,N,express
+Maca?,Maca?,"-22,382323","-41,775374",Brazil,BR,Rio de Janeiro,RJ,143029,123137,56566,5657,3,54,2,A,express
+Alagoinhas,Alagoinhas,"-12,132504","-38,427789",Brazil,BR,Bahia,BA,124070,122688,0,0,0,0,0,I,express
+Pindamonhangaba,Pindamonhangaba,"-22,928668","-45,457445",Brazil,BR,S?o Paulo,SP,132218,115752,53536,5354,3,52,2,A,express
+Itapetininga,Itapetininga,"-23,587115","-48,040777",Brazil,BR,S?o Paulo,SP,126243,115535,85699,857,3,54,2,A,express
+Lajes,Lajes,"-27,812148","-50,315421",Brazil,BR,Santa Catarina,SC,164676,115268,85699,857,3,53,2,A,express
+Florian?polis,Florian?polis,"-27,590444","-48,57581",Brazil,BR,Santa Catarina,SC,1023000,114566,65412,6541,4,73,2,A,smart
+Parna?ba,Parna?ba,"-2,909167","-41,774722",Brazil,BR,Piau?,PI,138008,113390,0,0,0,0,0,I,express
+Castanhal,Castanhal,"-1,295297","-47,922035",Brazil,BR,Par?,PA,137406,113223,54546,5455,3,51,2,A,express
+Cabo Frio,Cabo Frio,"-22,886365","-42,028794",Brazil,BR,Rio de Janeiro,RJ,261721,108239,0,0,0,0,0,I,express
+Santa Cruz do Sul,Santa Cruz do Sul,"-29,716667","-52,433333",Brazil,BR,Rio Grande do Sul,RS,113625,106113,88889,8889,3,53,2,A,express
+Guaratinguet?,Guaratinguet?,"-22,821979","-45,195296",Brazil,BR,S?o Paulo,SP,203580,105880,56566,5657,4,66,2,A,smart
+Po?os de Caldas,Po?os de Caldas,"-21,786861","-46,564644",Brazil,BR,Minas Gerais,MG,146588,104409,0,0,0,0,0,I,express
+Garanhuns,Garanhuns,"-8,886552","-36,493069",Brazil,BR,Pernambuco,PE,110085,104145,0,0,0,0,0,N,express
+Catanduva,Catanduva,"-21,135986","-48,970331",Brazil,BR,S?o Paulo,SP,109612,100864,0,0,0,0,0,N,smart
+Bag?,Bag?,"-31,3314264","-54,1062808",Brazil,BR,Rio Grande do Sul,RS,106098,98940,0,0,0,0,0,N,express
+Rio Grande,Rio Grande,"-32,033333","-52,083333",Brazil,BR,Rio Grande do Sul,RS,187838,98462,0,0,0,0,0,N,express
+Apucarana,Apucarana,"-23,5525327","-51,4610764",Brazil,BR,Paran?,PR,107085,98069,56567,5657,3,54,2,A,express
+Ourinhos,Ourinhos,"-22,98143","-49,864721",Brazil,BR,S?o Paulo,SP,97799,96189,54547,5455,3,52,2,A,smart
+Guarapuava,Guarapuava,"-25,3950986","-51,4622016",Brazil,BR,Paran?,PR,150850,95913,45455,4546,5,79,2,A,express
+Juazeiro,Juazeiro,"-9,420649","-40,504265",Brazil,BR,Bahia,BA,95132,95132,54547,5455,3,53,2,A,express
+Conselheiro Lafaiete,Conselheiro Lafaiete,"-20,668436","-43,784966",Brazil,BR,Minas Gerais,MG,111596,94256,56566,5657,3,53,2,A,express
+Barretos,Barretos,"-20,554421","-48,572864",Brazil,BR,S?o Paulo,SP,101220,93904,0,0,0,0,0,I,smart
+Bento Gon?alves,Bento Gon?alves,"-29,166667","-51,516667",Brazil,BR,Rio Grande do Sul,RS,94271,90852,52527,5253,4,70,2,A,express
+Pouso Alegre,Pouso Alegre,"-22,230058","-45,938133",Brazil,BR,Minas Gerais,MG,115201,89834,79799,798,3,54,2,A,express
+Trindade,Trindade,"-16,653025","-49,49381",Brazil,BR,Goi?s,GO,97521,88705,45456,4546,3,53,2,A,express
+Ja?,Ja?,"-22,294121","-48,558334",Brazil,BR,S?o Paulo,SP,119206,85925,0,0,0,0,0,I,smart
+Paulo Afonso,Paulo Afonso,"-9,438741","-38,217467",Brazil,BR,Bahia,BA,85350,85350,0,0,0,0,0,N,express
+Santana do Livramento,Santana do Livramento,"-30,883333","-55,516667",Brazil,BR,Rio Grande do Sul,RS,89694,84930,56567,5657,3,53,2,A,express
+Arapongas,Arapongas,"-23,4152862","-51,4293961",Brazil,BR,Paran?,PR,97512,84895,65658,6566,3,54,2,A,express
+Cod?,Cod?,"-4,45559","-43,892137",Brazil,BR,Maranh?o,MA,83288,83288,59597,598,3,54,2,A,express
+Barbacena,Barbacena,"-21,224743","-43,766666",Brazil,BR,Minas Gerais,MG,122211,81046,0,0,0,0,0,N,express
+Patos,Patos,"-7,025445","-37,276728",Brazil,BR,Para?ba,PB,92575,78866,0,0,0,0,0,I,express
+Abaetetuba,Abaetetuba,"-1,724735","-48,881345",Brazil,BR,Par?,PA,79420,78050,75757,6566,3,52,2,A,express
+Botucatu,Botucatu,"-22,883468","-48,441546",Brazil,BR,S?o Paulo,SP,113862,76015,77778,7778,3,53,2,A,express
+Itanha?m,Itanha?m,"-24,183333","-46,783333",Brazil,BR,S?o Paulo,SP,90385,75059,57575,4546,4,71,2,A,express
+Erechim,Erechim,"-27,633333","-52,283333",Brazil,BR,Rio Grande do Sul,RS,96087,74644,58587,5859,3,53,2,A,express
+Brusque,Brusque,"-27,099612","-48,910795",Brazil,BR,Santa Catarina,SC,88284,74043,78789,7879,3,53,2,A,express
+Campo Mour?o,Campo Mour?o,"-24,046329","-52,37802",Brazil,BR,Paran?,PR,75401,72945,7985,798,3,54,2,A,express
+Te?filo Otoni,Te?filo Otoni,"-17,865665","-41,502653",Brazil,BR,Minas Gerais,MG,101170,72560,0,0,0,0,0,N,express
+Uruguaiana,Uruguaiana,"-29,7564894","-57,0867197",Brazil,BR,Rio Grande do Sul,RS,123480,71993,45459,4546,3,53,2,A,express
+Passos,Passos,"-20,720836","-46,605426",Brazil,BR,Minas Gerais,MG,98752,71521,0,0,0,0,0,I,express
+Assis,Assis,"-22,666667","-50,416667",Brazil,BR,S?o Paulo,SP,87471,70795,0,0,0,0,0,N,express
+Carpina,Carpina,"-7,846039","-35,256438",Brazil,BR,Pernambuco,PE,165579,70689,75757,8979,3,53,2,A,express
+Tatu?,Tatu?,"-23,346529","-47,846222",Brazil,BR,S?o Paulo,SP,93580,70292,53537,5354,3,53,2,A,express
+Linhares,Linhares,"-19,393643","-40,058149",Brazil,BR,Esp?rito Santo,ES,105075,67751,78789,7879,3,54,2,A,express
+Tubar?o,Tubar?o,"-28,480781","-49,015527",Brazil,BR,Santa Catarina,SC,92275,67245,0,0,0,0,0,N,express
+Ub?,Ub?,"-21,118183","-42,94306",Brazil,BR,Minas Gerais,MG,97828,65569,0,0,0,0,0,N,express
+Ji-Paran?,Ji-Paran?,"-10,833333","-61,966667",Brazil,BR,Rond?nia,RO,65016,65016,56568,5657,3,52,2,A,express
+Itaituba,Itaituba,"-4,216667","-56,016667",Brazil,BR,Par?,PA,92308,64756,89791,8979,3,54,2,A,express
+Santo ?ngelo,Santo ?ngelo,"-28,3000481","-54,2669971",Brazil,BR,Rio Grande do Sul,RS,65420,64606,65659,6566,3,52,2,A,express
+Parintins,Parintins,"-2,632757","-56,732798",Brazil,BR,Amazonas,AM,64428,64428,58588,5859,3,54,2,A,express
+Rio Largo,Rio Largo,"-9,481869","-35,84637",Brazil,BR,Alagoas,AL,158545,63387,56566,5657,3,54,2,A,express
+Araguari,Araguari,"-18,65064","-48,189398",Brazil,BR,Minas Gerais,MG,96565,63256,56567,5657,3,54,2,A,express
+Vilhena,Vilhena,"-12,73635","-60,130931",Brazil,BR,Rond?nia,RO,63231,63231,65661,6566,3,54,2,A,express
+Ita?na,Ita?na,"-20,076647","-44,574877",Brazil,BR,Minas Gerais,MG,77400,63066,59597,596,3,54,2,A,express
+Muria?,Muria?,"-21,133333","-42,366667",Brazil,BR,Minas Gerais,MG,91173,62284,0,0,0,0,0,I,express
+S?o Jo?o da Boa Vista,S?o Jo?o da Boa Vista,"-21,974499","-46,793944",Brazil,BR,S?o Paulo,SP,76540,60792,84947,8495,3,53,2,A,express
+Avar?,Avar?,"-23,10544","-48,919067",Brazil,BR,S?o Paulo,SP,81285,60133,0,0,0,0,0,I,express
+Lavras,Lavras,"-21,242429","-44,997852",Brazil,BR,Minas Gerais,MG,81472,59400,0,0,0,0,0,N,express
+Santa Rosa,Santa Rosa,"-27,866667","-54,483333",Brazil,BR,Rio Grande do Sul,RS,59281,58957,59598,596,3,51,2,A,express
+S?o Jo?o del Rei,S?o Jo?o del Rei,"-21,134083","-44,256308",Brazil,BR,Minas Gerais,MG,78592,58871,8547,854,3,53,2,A,express
+Ariquemes,Ariquemes,"-9,9076522","-63,033069",Brazil,BR,Rond?nia,RO,58096,58096,52528,5253,3,52,2,A,express
+Arax?,Arax?,"-19,595459","-46,93688",Brazil,BR,Minas Gerais,MG,82595,57724,0,0,0,0,0,I,express
+Cruzeiro do Sul,Cruzeiro do Sul,"-7,9609552","-72,7370575",Brazil,BR,Acre,AC,56862,56862,59598,596,3,53,2,A,express
+Bragan?a,Bragan?a,"-1,051948","-46,77015",Brazil,BR,Par?,PA,57163,56566,85701,857,3,53,2,A,express
+Ponta Por?,Ponta Por?,"-22,533333","-55,716667",Brazil,BR,Mato Grosso do Sul,MS,94331,55763,51517,5152,3,54,2,A,express
+Crato CE,Crato CE,"-7,232173","-39,410949",Brazil,BR,Cear?,CE,273883,54416,54545,5455,3,52,2,A,express
+Crato AM,Crato AM,"-7,483333","-63,033333",Brazil,BR,Amazonas,AM,273883,54416,51515,5152,3,52,2,A,express
+Santana,Santana,"-0,042261","-51,168861",Brazil,BR,Amap?,AP,83927,53771,0,0,0,0,0,N,express
+Manacapuru,Manacapuru,"-3,290776","-60,625954",Brazil,BR,Amazonas,AM,59102,52459,58588,5859,3,52,2,A,smart
+Jabuticabal,Jabuticabal,"-21,25555","-48,320455",Brazil,BR,S?o Paulo,SP,69394,52167,87881,8788,3,54,2,A,express
+Pirapora,Pirapora,"-17,337368","-44,927144",Brazil,BR,Minas Gerais,MG,60164,51656,0,0,0,0,0,N,express
+Itacoatiara,Itacoatiara,"-3,142026","-58,443621",Brazil,BR,Amazonas,AM,51509,51509,65854,6566,3,54,2,A,express
+Itumbiara,Itumbiara,"-18,412247","-49,214267",Brazil,BR,Goi?s,GO,79582,51105,53537,5354,3,51,2,A,express
+Ca?ador,Ca?ador,"-26,77567","-51,0120041",Brazil,BR,Santa Catarina,SC,63726,50585,51518,5152,3,53,2,A,express
+Coari,Coari,"-4,093753","-63,139426",Brazil,BR,Amazonas,AM,53305,50490,0,0,0,0,0,N,express
+Aragua?na,Aragua?na,"-7,189338","-48,205358",Brazil,BR,Tocantins,TO,50444,50444,59599,598,3,53,2,A,express
+Valen?a,Valen?a,"-13,372066","-39,072694",Brazil,BR,Bahia,BA,63231,49938,89792,8979,4,70,2,A,express
+Tr?s Lagoas,Tr?s Lagoas,"-20,7866799","-51,7061247",Brazil,BR,Mato Grosso do Sul,MS,78712,49723,89791,8979,3,52,2,A,express
+S?o Mateus,S?o Mateus,"-18,720196","-39,862631",Brazil,BR,Esp?rito Santo,ES,77117,49634,75757,4546,3,54,2,A,express
+Santa In?s,Santa In?s,"-3,668593","-45,377182",Brazil,BR,Maranh?o,MA,67424,49599,54548,5455,3,52,2,A,express
+Fernand?polis,Fernand?polis,"-20,266667","-50,233333",Brazil,BR,S?o Paulo,SP,61931,49243,45461,4546,3,53,2,A,express
+Serrinha,Serrinha,"-11,66113","-38,997617",Brazil,BR,Bahia,BA,56829,49078,45461,4546,3,53,2,A,express
+Cachoeira do Sul,Cachoeira do Sul,"-30,0474778","-52,8905413",Brazil,BR,Rio Grande do Sul,RS,74694,49048,0,0,0,0,0,I,express
+Arcoverde,Arcoverde,"-8,416667","-37,066667",Brazil,BR,Pernambuco,PE,57163,48969,89792,8979,3,54,2,A,express
+Barra do Corda,Barra do Corda,"-5,503082","-45,236929",Brazil,BR,Maranh?o,MA,48901,48901,54549,5455,3,53,2,A,express
+Tel?maco Borba,Tel?maco Borba,"-24,326357","-50,61908",Brazil,BR,Paran?,PR,58880,48707,54548,5455,3,51,2,A,express
+Rio Verde,Rio Verde,"-17,791957","-50,918933",Brazil,BR,Goi?s,GO,48318,48318,53539,5354,3,53,2,A,express
+Itapeva,Itapeva,"-23,980184","-48,875006",Brazil,BR,S?o Paulo,SP,62957,47691,85701,857,3,53,2,A,express
+Iju?,Iju?,"-28,383333","-53,916667",Brazil,BR,Rio Grande do Sul,RS,71202,46892,79787,7979,3,53,2,A,express
+Breves,Breves,"-1,681558","-50,479573",Brazil,BR,Par?,PA,47164,46473,78791,7879,3,54,2,A,express
+Est?ncia,Est?ncia,"-11,266667","-37,433333",Brazil,BR,Sergipe,SE,55654,45726,88891,8889,3,53,2,A,express
+Registro,Registro,"-24,49421","-47,844913",Brazil,BR,S?o Paulo,SP,53273,45697,0,0,0,0,0,I,express
+Timba?ba,Timba?ba,"-7,505335","-35,319293",Brazil,BR,Pernambuco,PE,57534,45121,53538,5354,3,53,2,A,express
+Tef?,Tef?,"-3,356333","-64,696393",Brazil,BR,Amazonas,AM,51437,44942,56569,5657,3,54,2,A,express
+Goiana,Goiana,"-7,563649","-34,996142",Brazil,BR,Pernambuco,PE,71549,43980,0,0,0,0,0,I,express
+Formosa,Formosa,"-15,533333","-47,333333",Brazil,BR,Goi?s,GO,81232,43939,0,0,0,0,0,N,express
+Capanema,Capanema,"-1,1933054","-47,1828679",Brazil,BR,Par?,PA,47766,43896,59599,868,3,53,2,A,express
+Catal?o,Catal?o,"-18,179174","-47,941537",Brazil,BR,Goi?s,GO,63544,43749,53538,5354,3,53,2,A,express
+Corumb?,Corumb?,"-19,0016365","-57,6534316",Brazil,BR,Mato Grosso do Sul,MS,96520,43551,59597,584,3,53,2,A,express
+Pira?ununga,Pira?ununga,"-21,996345","-47,420963",Brazil,BR,S?o Paulo,SP,60413,42983,87881,8788,3,53,2,A,express
+Iguatu,Iguatu,"-6,361934","-39,2972233",Brazil,BR,Cear?,CE,70380,42896,86868,7879,3,54,2,A,express
+Altamira,Altamira,"-3,204744","-52,212397",Brazil,BR,Par?,PA,70888,42650,56568,5657,3,53,2,A,express
+Ituiutaba,Ituiutaba,"-18,978542","-49,45555",Brazil,BR,Minas Gerais,MG,85345,42611,65658,6566,3,54,2,A,express
+Bacabal,Bacabal,"-4,233333","-44,783333",Brazil,BR,Maranh?o,MA,72372,42221,88987,8889,3,53,2,A,express
+Tup?,Tup?,"-21,9349129","-50,5141255",Brazil,BR,S?o Paulo,SP,62035,41562,59598,868,3,54,2,A,express
+Palmeira dos ?ndios,Palmeira dos ?ndios,"-9,411065","-36,628634",Brazil,BR,Alagoas,AL,41095,41095,49861,4986,3,53,2,A,express
+Ararangu?,Ararangu?,"-28,933333","-49,483333",Brazil,BR,Santa Catarina,SC,43444,40953,52529,5253,3,54,2,A,express
+Bom Jesus da Lapa,Bom Jesus da Lapa,"-13,250571","-43,410754",Brazil,BR,Bahia,BA,40691,40691,59602,598,3,54,2,A,express
+Andradina,Andradina,"-20,896505","-51,3742765",Brazil,BR,S?o Paulo,SP,52406,39024,78791,7879,3,52,2,A,express
+Car?zinho,Car?zinho,"-28,2981634","-52,7942363",Brazil,BR,Rio Grande do Sul,RS,59417,38873,56568,5657,3,54,2,A,express
+Guaxup?,Guaxup?,"-21,304673","-46,707454",Brazil,BR,Minas Gerais,MG,47889,38870,89793,8979,3,53,2,A,express
+Canoinhas,Canoinhas,"-26,17532","-50,393696",Brazil,BR,Santa Catarina,SC,41498,38862,45462,4546,3,53,2,A,express
+Senhor do Bonfim,Senhor do Bonfim,"-10,459629","-40,189241",Brazil,BR,Bahia,BA,48471,38683,52529,5253,4,70,2,A,express
+Remanso,Remanso,"-9,621255","-42,082331",Brazil,BR,Bahia,BA,37945,37945,0,0,0,0,0,I,express
+Picos,Picos,"-7,080019","-41,468277",Brazil,BR,Piau?,PI,57495,37894,65661,6566,3,54,2,A,express
+Vacaria,Vacaria,"-28,506092","-50,933847",Brazil,BR,Rio Grande do Sul,RS,56765,37786,87881,8788,3,54,2,A,express
+Jata?,Jata?,"-17,887249","-51,718183",Brazil,BR,Goi?s,GO,76547,37723,85874,8788,3,53,2,A,express
+Irati,Irati,"-25,462854","-50,651285",Brazil,BR,Paran?,PR,45830,37374,45458,4546,3,51,2,A,express
+S?o Borja,S?o Borja,"-28,6592237","-56,0044295",Brazil,BR,Rio Grande do Sul,RS,59613,37288,65659,6566,3,54,2,A,express
+Camaqu?,Camaqu?,"-30,8524752","-51,8075619",Brazil,BR,Rio Grande do Sul,RS,53169,37056,56569,5657,3,52,2,A,express
+Conc?rdia,Conc?rdia,"-27,233333","-52,016667",Brazil,BR,Santa Catarina,SC,55367,36882,59601,868,3,54,2,A,express
+Campo Belo,Campo Belo,"-20,892555","-45,272604",Brazil,BR,Minas Gerais,MG,47491,36594,56569,5657,3,54,2,A,express
+Batatais,Batatais,"-20,892176","-47,59014",Brazil,BR,S?o Paulo,SP,51976,36146,45458,4546,3,53,2,A,express
+Formiga,Formiga,"-20,464907","-45,426774",Brazil,BR,Minas Gerais,MG,56404,35749,68686,4986,3,53,2,A,express
+Gar?a,Gar?a,"-22,216911","-49,653177",Brazil,BR,S?o Paulo,SP,41302,35618,84949,8495,3,53,2,A,express
+Barreiros,Barreiros,"-8,817778","-35,185833",Brazil,BR,Pernambuco,PE,35565,35380,58744,5152,3,54,2,A,express
+Aquidauana,Aquidauana,"-20,473969","-55,7821375",Brazil,BR,Mato Grosso do Sul,MS,40803,35303,56569,5657,3,54,2,A,express
+Pen?polis,Pen?polis,"-21,4192406","-50,0765588",Brazil,BR,S?o Paulo,SP,54477,35113,87882,8788,3,54,2,A,express
+Oriximin?,Oriximin?,"-1,763429","-55,861981",Brazil,BR,Par?,PA,35581,35019,86868,5455,3,53,2,A,express
+Caratinga,Caratinga,"-19,790133","-42,141654",Brazil,BR,Minas Gerais,MG,60066,34969,0,0,0,0,0,I,express
+Castro,Castro,"-24,794072","-49,9972914",Brazil,BR,Paran?,PR,42091,34744,85702,875,3,54,2,A,express
+Coroat?,Coroat?,"-4,130958","-44,123484",Brazil,BR,Maranh?o,MA,34129,34129,45463,4546,3,54,2,A,express
+Guajar?-Mirim,Guajar?-Mirim,"-10,7804239","-65,3327825",Brazil,BR,Rond?nia,RO,69586,34119,56568,5657,3,54,2,A,express
+Canela,Canela,"-29,360571","-50,809458",Brazil,BR,Rio Grande do Sul,RS,60806,33528,0,0,0,0,0,I,express
+Penedo,Penedo,"-10,29103","-36,573579",Brazil,BR,Alagoas,AL,42097,32934,89793,8979,3,53,2,A,express
+Capit?o Po?o,Capit?o Po?o,"-1,747211","-47,060334",Brazil,BR,Par?,PA,32704,32704,88547,5657,3,54,2,A,express
+Paracatu,Paracatu,"-17,221089","-46,874122",Brazil,BR,Minas Gerais,MG,70753,32594,87881,8788,3,54,2,A,express
+Guanambi,Guanambi,"-14,225972","-42,778218",Brazil,BR,Bahia,BA,58877,32583,51518,5152,3,52,2,A,express
+Ponte Nova,Ponte Nova,"-20,411369","-42,895958",Brazil,BR,Minas Gerais,MG,48187,32567,65662,6566,3,54,2,A,express
+Irec?,Irec?,"-11,305563","-41,8587",Brazil,BR,Bahia,BA,63626,32533,52528,5253,3,53,2,A,express
+Nova Lima,Nova Lima,"-19,988766","-43,850756",Brazil,BR,Minas Gerais,MG,88399,32428,85478,8788,3,54,2,A,express
+Barreirinho,Barreirinho,"-23,1297","-50,0098",Brazil,BR,Paran?,PR,35090,32012,56874,5354,3,53,2,A,express
+Jacareacanga,Jacareacanga,"-6,2196518","-57,758625",Brazil,BR,Par?,PA,31661,31661,58745,5657,3,53,2,A,express
+Goian?sia,Goian?sia,"-15,325971","-49,117216",Brazil,BR,Goi?s,GO,47883,30552,85702,857,3,53,2,A,express
+A?u,A?u,"-5,577222","-36,9075",Brazil,BR,Rio Grande do Norte,RN,36125,30481,54874,5859,4,70,2,A,express
+Presidente Dutra,Presidente Dutra,"-5,285216","-44,487286",Brazil,BR,Alagoas,AL,30330,30330,84545,5455,3,53,2,A,express
+Graja?,Graja?,"-5,816667","-46,133333",Brazil,BR,Maranh?o,MA,30217,30217,0,0,0,0,0,I,express
+Barra do Gar?as,Barra do Gar?as,"-15,8916033","-52,2615413",Brazil,BR,Mato Grosso,MT,52398,30031,54549,5455,3,52,2,A,express
+Caic?,Caic?,"-6,463238","-37,094921",Brazil,BR,Rio Grande do Norte,RN,54934,29822,0,0,0,0,0,I,express
+Tau?,Tau?,"-6,0031372","-40,2947268",Brazil,BR,Cear?,CE,29188,29188,84745,587,3,53,2,A,express
+Novo Horizonte,Novo Horizonte,"-21,467046","-49,219699",Brazil,BR,S?o Paulo,SP,30158,28950,88745,5253,3,53,2,A,express
+P?rto Uni?o,P?rto Uni?o,"-26,2336416","-51,082771",Brazil,BR,Santa Catarina,SC,71578,28907,0,0,0,0,0,N,express
+S?o Gabriel,S?o Gabriel,"-30,333333","-54,316667",Brazil,BR,Rio Grande do Sul,RS,55434,28265,56568,5657,3,53,2,A,express
+Inhumas,Inhumas,"-16,361361","-49,500253",Brazil,BR,Goi?s,GO,44058,28186,54549,5455,3,53,2,A,express
+Leopoldina,Leopoldina,"-21,531564","-42,638258",Brazil,BR,Minas Gerais,MG,46742,28082,54549,5455,3,54,2,A,express
+Curvelo,Curvelo,"-18,760738","-44,427531",Brazil,BR,Minas Gerais,MG,63954,27920,54548,5455,3,54,2,A,express
+S?o Jos? de Ribamar,S?o Jos? de Ribamar,"-2,547059","-44,066874",Brazil,BR,Maranh?o,MA,55265,27777,79788,7979,3,54,2,A,express
+Russas,Russas,"-4,939011","-37,968919",Brazil,BR,Cear?,CE,39465,27762,66584,5657,3,51,2,A,express
+Crate?s,Crate?s,"-5,166667","-40,666667",Brazil,BR,Cear?,CE,52933,27743,87882,8788,3,51,2,A,express
+Col?der,Col?der,"-10,82781","-55,448474",Brazil,BR,Mato Grosso,MT,27139,27139,59603,587,3,52,2,A,express
+Os?rio,Os?rio,"-29,891278","-50,267421",Brazil,BR,Rio Grande do Sul,RS,34628,27136,85703,868,3,54,2,A,express
+Concei??o do Araguaia,Concei??o do Araguaia,"-8,261792","-49,266767",Brazil,BR,Par?,PA,27115,27115,78987,7979,3,51,2,A,express
+Aripuan?,Aripuan?,"-9,166667","-60,633333",Brazil,BR,Mato Grosso,MT,26983,26983,56571,5657,3,52,2,A,express
+Itapetinga,Itapetinga,"-15,2454478","-40,2460053",Brazil,BR,Bahia,BA,59721,26727,45457,4546,3,54,2,A,express
+Ubaitaba,Ubaitaba,"-14,314773","-39,319116",Brazil,BR,Bahia,BA,28375,26448,87883,8788,3,53,2,A,express
+Gurupi,Gurupi,"-11,728889","-49,068889",Brazil,BR,Tocantins,TO,64789,26402,59598,686,3,53,2,A,express
+Canavieiras,Canavieiras,"-15,677141","-38,947917",Brazil,BR,Bahia,BA,26375,26375,56571,5657,3,54,2,A,express
+Alenquer,Alenquer,"-1,947293","-54,736185",Brazil,BR,Par?,PA,26290,26290,87884,8788,3,53,2,A,express
+Pimenta Bueno,Pimenta Bueno,"-11,6767868","-61,1863902",Brazil,BR,Rond?nia,RO,25762,25762,66589,4546,3,54,2,A,express
+Laguna,Laguna,"-28,483333","-48,783333",Brazil,BR,Santa Catarina,SC,39711,25353,79789,7979,3,54,2,A,express
+?bidos,?bidos,"-1,904858","-55,517292",Brazil,BR,Par?,PA,27587,24970,88893,8889,3,54,2,A,express
+Rolim de Moura,Rolim de Moura,"-11,727595","-61,779483",Brazil,BR,Rond?nia,RO,24516,24516,0,0,0,0,0,I,express
+S?o Lu?s Gonzaga,S?o Lu?s Gonzaga,"-28,4074546","-54,9609081",Brazil,BR,Rio Grande do Sul,RS,31798,23799,45459,4546,3,52,2,A,express
+Salin?polis,Salin?polis,"-0,611765","-47,335021",Brazil,BR,Par?,PA,40998,23771,79802,798,3,53,2,A,express
+Joa?aba,Joa?aba,"-27,1737204","-51,5065214",Brazil,BR,Santa Catarina,SC,38876,23516,66548,5657,3,52,2,A,express
+Iguape,Iguape,"-24,705901","-47,555889",Brazil,BR,S?o Paulo,SP,23784,23421,51521,5152,3,53,2,A,express
+Floriano,Floriano,"-6,773038","-43,018779",Brazil,BR,Piau?,PI,48587,23259,51519,5152,3,54,2,A,express
+Rio Negro,Rio Negro,"-26,0934","-49,7895",Brazil,BR,Paran?,PR,65597,23006,45457,4546,3,51,2,A,express
+Itamaraju,Itamaraju,"-17,043802","-39,530049",Brazil,BR,Bahia,BA,47628,22482,45462,4546,3,54,2,A,express
+Mau?s,Mau?s,"-3,390607","-57,71385",Brazil,BR,Amazonas,AM,32561,22475,87883,8788,3,51,2,A,express
+Jaguar?o,Jaguar?o,"-32,566667","-53,383333",Brazil,BR,Rio Grande do Sul,RS,29613,22427,0,0,0,0,0,I,express
+Nova Cruz,Nova Cruz,"-6,477301","-35,431039",Brazil,BR,Rio Grande do Norte,RN,23166,21961,59601,868,3,51,2,A,express
+Morrinhos,Morrinhos,"-17,735354","-49,108203",Brazil,BR,Goi?s,GO,34143,21539,58745,587,3,54,2,A,express
+Canind?,Canind?,"-4,357642","-39,312132",Brazil,BR,Cear?,CE,42720,21450,53539,5354,3,53,2,A,express
+Gua?ra,Gua?ra,"-24,0851924","-54,2567519",Brazil,BR,Paran?,PR,36426,21369,54587,5657,3,53,2,A,express
+Itupiranga,Itupiranga,"-5,135763","-49,323782",Brazil,BR,Par?,PA,21301,21301,59601,458,3,53,2,A,express
+Salgueiro,Salgueiro,"-8,072065","-39,122427",Brazil,BR,Pernambuco,PE,42152,20978,65662,6566,3,53,2,A,express
+P?rto Seguro,P?rto Seguro,"-16,449502","-39,063499",Brazil,BR,Bahia,BA,123173,20889,0,0,0,0,0,I,express
+Jana?ba,Jana?ba,"-15,804089","-43,308283",Brazil,BR,Minas Gerais,MG,56572,20710,84948,8495,4,70,2,A,express
+Sena Madureira,Sena Madureira,"-9,066667","-68,666667",Brazil,BR,Acre,AC,26192,20516,78793,7879,3,53,2,A,express
+Ros?rio do Sul,Ros?rio do Sul,"-30,2527151","-54,9179382",Brazil,BR,Rio Grande do Sul,RS,36721,20472,0,0,0,0,0,I,express
+Palmas PR,Palmas PR,"-26,483868","-51,988812",Brazil,BR,Paran?,PR,39150,20439,87883,8788,3,52,2,A,express
+Piripiri,Piripiri,"-4,270812","-41,78118",Brazil,BR,Piau?,PI,44864,20414,56569,5657,3,51,2,A,express
+Jaguaquara,Jaguaquara,"-13,530735","-39,969096",Brazil,BR,Bahia,BA,41498,19611,87882,8788,3,54,2,A,express
+Chapadinha,Chapadinha,"-3,7416803","-43,3548006",Brazil,BR,Maranh?o,MA,40804,18811,88892,8889,3,54,2,A,express
+Jardim,Jardim,"-21,479941","-56,148902",Brazil,BR,Mato Grosso do Sul,MS,23780,18725,52531,5253,3,54,2,A,express
+Ceres,Ceres,"-15,310395","-49,602213",Brazil,BR,Goi?s,GO,18759,18558,52531,5253,3,53,2,A,express
+Pires do Rio,Pires do Rio,"-17,3024","-48,278659",Brazil,BR,Goi?s,GO,24822,18554,0,0,0,0,0,N,express
+Paracuru,Paracuru,"-3,412282","-39,030279",Brazil,BR,Cear?,CE,21196,18524,58591,5859,3,53,2,A,express
+Ipor?,Ipor?,"-16,440391","-51,118436",Brazil,BR,Goi?s,GO,28254,18454,49862,4986,3,54,2,A,express
+Miracema,Miracema,"-21,412005","-42,19428",Brazil,BR,Rio de Janeiro,RJ,26684,18445,78793,7879,3,53,2,A,express
+Parana?ba,Parana?ba,"-19,673868","-51,186366",Brazil,BR,Mato Grosso do Sul,MS,32217,18340,78792,7879,3,52,2,A,express
+S?o Louren?o do Sul,S?o Louren?o do Sul,"-31,366667","-51,966667",Brazil,BR,Rio Grande do Sul,RS,25340,18006,0,0,0,0,0,I,express
+Mineiros,Mineiros,"-17,568057","-52,551001",Brazil,BR,Goi?s,GO,38951,17543,78792,7879,3,51,2,A,express
+Eirunep?,Eirunep?,"-6,659089","-69,870405",Brazil,BR,Amazonas,AM,21750,17175,54551,5455,3,53,2,A,express
+Janu?ria,Janu?ria,"-15,488664","-44,35988",Brazil,BR,Minas Gerais,MG,34811,16695,89794,8979,3,54,2,A,express
+Brumado,Brumado,"-14,20737","-41,671629",Brazil,BR,Bahia,BA,41989,16611,59599,587,4,70,2,A,express
+Nanuque,Nanuque,"-17,842428","-40,345326",Brazil,BR,Minas Gerais,MG,37824,16597,78792,7879,3,54,2,A,express
+Campo Maior,Campo Maior,"-4,825709","-42,167355",Brazil,BR,Piau?,PI,31739,16440,65661,6566,3,52,2,A,express
+Santa Cruz,Santa Cruz,"-6,228621","-36,018081",Brazil,BR,Rio Grande do Norte,RN,27775,16232,77782,7778,3,54,2,A,express
+Itaberaba,Itaberaba,"-12,530067","-40,305439",Brazil,BR,Bahia,BA,47301,16143,87882,8788,3,54,2,A,express
+Pontes e Lacerda,Pontes e Lacerda,"-15,22233","-59,340563",Brazil,BR,Mato Grosso,MT,29381,16008,89794,8979,3,53,2,A,express
+Santa Vit?ria do Palmar,Santa Vit?ria do Palmar,"-33,5195569","-53,3692659",Brazil,BR,Rio Grande do Sul,RS,27775,15877,79803,498,3,54,2,A,express
+Itabera?,Itabera?,"-16,024995","-49,805937",Brazil,BR,Goi?s,GO,22129,15292,87884,8788,3,52,2,A,express
+S?o Gabriel da Cachoeira,S?o Gabriel da Cachoeira,"-0,11883","-67,085015",Brazil,BR,Amazonas,AM,15231,15231,89795,999,3,53,2,A,express
+Almenara,Almenara,"-16,175107","-40,698446",Brazil,BR,Minas Gerais,MG,29333,15014,85703,555,3,54,2,A,express
+Cristalina,Cristalina,"-16,76718","-47,606441",Brazil,BR,Goi?s,GO,36531,14724,65661,6566,3,53,2,A,express
+Lapa,Lapa,"-25,765833","-49,717778",Brazil,BR,Paran?,PR,25621,14248,65662,6566,4,70,2,A,express
+Barreiras,Barreiras,"-12,146051","-44,997652",Brazil,BR,Bahia,BA,158292,14199,87879,8788,3,54,2,A,express
+Manicor?,Manicor?,"-5,811839","-61,291641",Brazil,BR,Amazonas,AM,21549,14055,65662,6566,3,54,2,A,express
+Quara?,Quara?,"-30,3818093","-56,4526576",Brazil,BR,Rio Grande do Sul,RS,23229,13695,85704,555,3,54,2,A,express
+Acara?,Acara?,"-2,883333","-40,116667",Brazil,BR,Cear?,CE,28389,13660,45463,4546,3,53,2,A,express
+Pedreiras,Pedreiras,"-4,571263","-44,61183",Brazil,BR,Maranh?o,MA,13638,13638,0,0,0,0,0,I,express
+Maracaju,Maracaju,"-21,6163005","-55,164605",Brazil,BR,Mato Grosso do Sul,MS,22690,13622,45464,4546,3,52,2,A,express
+Barra do Bugres,Barra do Bugres,"-15,067458","-57,186424",Brazil,BR,Mato Grosso,MT,31311,13461,87545,854,3,54,2,A,express
+Imbituba,Imbituba,"-28,239828","-48,672433",Brazil,BR,Santa Catarina,SC,43450,13310,51519,5152,3,54,2,A,express
+Baturit?,Baturit?,"-4,333333","-38,883333",Brazil,BR,Cear?,CE,22417,13178,56571,5657,3,51,2,A,express
+Diamantina,Diamantina,"-18,241451","-43,610005",Brazil,BR,Minas Gerais,MG,37343,13026,0,0,0,0,0,N,express
+Bocai?va,Bocai?va,"-17,114627","-43,813784",Brazil,BR,Minas Gerais,MG,32114,12943,86868,5455,3,51,2,A,express
+Frutal,Frutal,"-20,028153","-48,937764",Brazil,BR,Minas Gerais,MG,40931,12663,77781,7778,3,54,2,A,express
+S?o Francisco do Sul,S?o Francisco do Sul,"-26,2582","-48,6326",Brazil,BR,Santa Catarina,SC,36224,12485,65458,454,3,54,2,A,express
+Iturama,Iturama,"-19,733394","-50,198003",Brazil,BR,Minas Gerais,MG,29805,12292,0,0,0,0,0,N,express
+Quixad?,Quixad?,"-4,966667","-39,016667",Brazil,BR,Cear?,CE,49328,12119,58589,5859,3,53,2,A,express
+Niquel?ndia,Niquel?ndia,"-14,471709","-48,455603",Brazil,BR,Goi?s,GO,27541,12029,86868,5657,3,51,2,A,express
+Aracati,Aracati,"-4,566667","-37,766667",Brazil,BR,Cear?,CE,44293,11960,0,0,0,0,0,I,express
+Fonte Boa,Fonte Boa,"-2,518404","-66,086733",Brazil,BR,Amazonas,AM,16060,11889,65664,6566,3,53,2,A,express
+Balsas,Balsas,"-7,530741","-46,035844",Brazil,BR,Maranh?o,MA,68056,11467,86868,7879,3,51,2,A,express
+S?o Lu?s,S?o Lu?s,"-2,532519","-44,296299",Brazil,BR,Maranh?o,MA,1038000,11385,95845,9585,5,84,3,A,smart
+Caracara?,Caracara?,"1,833333","-61,133333",Brazil,BR,Roraima,RR,11368,11368,0,0,0,0,0,N,express
+Camocim,Camocim,"-2,899983","-40,845038",Brazil,BR,Cear?,CE,44481,11108,0,0,0,0,0,N,express
+Pinheiro,Pinheiro,"-2,524346","-45,078326",Brazil,BR,Maranh?o,MA,38893,10931,86868,5455,3,52,2,A,express
+Guanh?es,Guanh?es,"-18,782653","-42,94456",Brazil,BR,Minas Gerais,MG,23727,9796,53541,5354,3,54,2,A,express
+Itapecuru Mirim,Itapecuru Mirim,"-3,39634","-44,356376",Brazil,BR,Maranh?o,MA,34943,9751,65663,6566,3,53,2,A,express
+Porto Nacional,Porto Nacional,"-10,705838","-48,409555",Brazil,BR,Tocantins,TO,9129,9129,84951,8495,3,54,2,A,express
+Novo Air?o,Novo Air?o,"-2,625838","-60,943524",Brazil,BR,Amazonas,AM,9049,9049,49863,4986,3,54,2,A,express
+Sinop,Sinop,"-11,858119","-55,505577",Brazil,BR,Mato Grosso,MT,8961,8961,79804,454,3,51,2,A,express
+Tocantin?polis,Tocantin?polis,"-6,330128","-47,415982",Brazil,BR,Tocantins,TO,8750,8750,77783,7778,3,52,2,A,express
+Ara?ua?,Ara?ua?,"-16,858862","-42,06129",Brazil,BR,Minas Gerais,MG,22005,8598,78793,7879,3,52,2,A,express
+Granja,Granja,"-3,120093","-40,827317",Brazil,BR,Cear?,CE,25879,8587,54551,5455,3,53,2,A,express
+Alvorada,Alvorada,"-12,480854","-49,122301",Brazil,BR,Tocantins,TO,10232,8314,0,0,0,0,0,I,express
+Barcelos,Barcelos,"-0,975355","-62,924509",Brazil,BR,Amazonas,AM,12584,7353,59601,454,3,54,2,A,express
+Itamb?,Itamb?,"-15,244112","-40,620398",Brazil,BR,Bahia,BA,23558,7343,65664,6566,3,54,2,A,express
+Ros?rio,Ros?rio,"-2,942911","-44,25007",Brazil,BR,Maranh?o,MA,6798,6798,88894,8889,3,51,2,A,express
+Paragominas,Paragominas,"-2,966667","-47,483333",Brazil,BR,Par?,PA,69613,6578,54548,5455,3,54,2,A,express
+Itapipoca,Itapipoca,"-3,499329","-39,583571",Brazil,BR,Cear?,CE,55784,6298,74747,7778,3,53,2,A,express
+Viana,Viana,"-3,2099341","-45,0002456",Brazil,BR,Maranh?o,MA,26689,4928,87884,8788,3,52,2,A,express
+Nova Vi?osa,Nova Vi?osa,"-17,890028","-39,368185",Brazil,BR,Bahia,BA,55980,4520,79801,454,3,54,2,A,express
+Xinguara,Xinguara,"-7,100569","-49,941751",Brazil,BR,Par?,PA,4047,4047,59604,454,3,52,2,A,express
+Ic?,Ic?,"-6,4003992","-38,8575946",Brazil,BR,Cear?,CE,28323,3317,74747,8495,3,54,2,A,express
+Santa Maria da Vit?ria,Santa Maria da Vit?ria,"-13,390904","-44,197628",Brazil,BR,Bahia,BA,23488,2864,89795,744,3,54,2,A,express
+Barras,Barras,"-4,246059","-42,294814",Brazil,BR,Piau?,PI,21597,2306,45874,4546,3,54,2,A,express
+Ipu,Ipu,"-4,325698","-40,710286",Brazil,BR,Cear?,CE,26678,2281,54551,5455,3,54,2,A,express
+Colinas,Colinas,"-6,026631","-44,24888",Brazil,BR,Maranh?o,MA,25158,1967,59601,744,3,54,2,A,express
+Amap?,Amap?,"2,068557","-50,791687",Brazil,BR,Amap?,AP,1947,1947,79791,7979,3,53,2,A,express
+Abun?,Abun?,"-9,6985836","-65,3679004",Brazil,BR,Rond?nia,RO,1929,1929,56572,5657,3,54,2,A,express
+Xique-Xique,Xique-Xique,"-10,823803","-42,72965",Brazil,BR,Bahia,BA,35433,1833,65686,5253,3,53,2,A,express
+Tucano,Tucano,"-10,964268","-38,784847",Brazil,BR,Bahia,BA,31203,1195,68686,5859,3,54,2,A,express
+Viseu,Viseu,"-1,201705","-46,138706",Brazil,BR,Par?,PA,18958,1027,51521,5152,4,70,2,A,express
+Pr?ncipe da Beira,Pr?ncipe da Beira,"-12,425725","-64,422697",Brazil,BR,Rond?nia,RO,956,956,87885,8789,3,54,2,A,express
+Tonantins,Tonantins,"-2,870494","-67,804058",Brazil,BR,Amazonas,AM,4561,883,56571,5657,3,52,2,A,express
+Tucuru?,Tucuru?,"-3,7738509","-49,6708204",Brazil,BR,Par?,PA,76337,607,49859,4986,3,53,2,A,express
+Santa Cruz Cabr?lia,Santa Cruz Cabr?lia,"-16,279733","-39,022595",Brazil,BR,Bahia,BA,19545,416,54551,5455,3,54,2,A,express
+Apodi,Apodi,"-5,663898","-37,795438",Brazil,BR,Rio Grande do Norte,RN,16757,415,53541,5354,3,54,2,A,express
+Portel,Portel,"-1,936552","-50,819753",Brazil,BR,Par?,PA,21315,395,56571,5657,3,53,2,A,express
+Camet?,Camet?,"-2,242949","-49,497885",Brazil,BR,Par?,PA,45200,210,0,0,0,0,0,I,express

@@ -1,0 +1,28 @@
+Province/State,Country/Region,lat,lon,iso2,state_name,state_id,population,population_proper,fatur,compras,funcion,clientes,chamados,status,modelo
+São Paulo,Brazil,-23.573252,-46.641681,BR,São Paulo,SP,18845000,10021295,9898989,155037,31,527,16,A,premium
+Rio de Janeiro,Brazil,-22.875113,-43.277548,BR,Rio de Janeiro,RJ,11748000,2010175,950256,95026,22,374,11,A,premium
+Belo Horizonte,Brazil,-19.901739,-43.964196,BR,Minas Gerais,MG,5575000,2373224,830256,83026,20,333,10,A,premium
+Porto Alegre,Brazil,-30.032500,-51.230377,BR,Rio Grande do Sul,RS,3917000,1372741,754125,75413,18,307,9,A,premium
+Brasília,Brazil,-15.783333,-47.916667,BR,Distrito Federal,DF,3716996,2562963,6521,652,16,273,8,A,premium
+Recife,Brazil,-8.058493,-34.884819,BR,Pernambuco,PE,3651000,1478098,542658,54266,14,236,7,A,premium
+Fortaleza,Brazil,-3.737464,-38.546167,BR,Ceará,CE,3602319,2315116,352645,35265,10,171,5,A,premium
+Salvador,Brazil,-12.983333,-38.516667,BR,Bahia,BA,3484000,2678845,521062,52106,13,228,7,A,premium
+Curitiba,Brazil,-25.429596,-49.271272,BR,Paraná,PR,3084000,1498860,321564,32156,9,160,5,A,premium
+Campinas,Brazil,-22.909474,-47.067415,BR,São Paulo,SP,2791000,1031554,856254,85625,20,342,10,A,premium
+Belém,Brazil,-1.437281,-48.470614,BR,Pará,PA,2167000,1407737,412523,41252,11,191,6,A,premium
+Goiânia,Brazil,-16.701028,-49.266793,BR,Goiás,GO,2022000,1171195,5321,532,4,69,2,A,premium
+Manaus,Brazil,-3.113333,-60.025278,BR,Amazonas,AM,1753000,1520244,65485,6549,4,73,2,A,smart
+Santos,Brazil,-23.952906,-46.356071,BR,São Paulo,SP,1709000,411403,98562,9856,5,85,3,A,smart
+Vitória,Brazil,-20.332179,-40.345011,BR,Espírito Santo,ES,1704000,312656,36521,3652,4,63,2,A,smart
+Niterói,Brazil,-22.887107,-43.090889,BR,Rio de Janeiro,RJ,1500513,487327,54125,5413,4,69,2,A,smart
+Vila Velha ES,Brazil,-20.333333,-40.283333,BR,Espírito Santo,ES,1209091,275736,67584,6758,4,74,2,A,smart
+Maceió,Brazil,-9.652406,-35.722433,BR,Alagoas,AL,1186000,814431,65325,6533,4,73,2,A,smart
+Natal RN,Brazil,-5.800210,-35.210669,BR,Rio Grande do Norte,RN,1088000,763043,21212,2121,3,58,2,A,smart
+São Luís,Brazil,-2.532519,-44.296299,BR,Maranhão,MA,1038000,11385,95845,9585,5,84,3,A,smart
+Florianópolis,Brazil,-27.590444,-48.575810,BR,Santa Catarina,SC,1023000,114566,65412,6541,4,73,2,A,smart
+Joinville,Brazil,-26.304490,-48.848673,BR,Santa Catarina,SC,988000,433475,26542,2654,4,60,2,A,smart
+João Pessoa,Brazil,-7.123742,-34.865646,BR,Paraíba,PB,956000,650883,0,0,0,0,0,I,smart
+Teresina,Brazil,-5.102887,-42.801549,BR,Piauí,PI,907000,586721,0,0,0,0,0,I,smart
+Aracaju,Brazil,-10.916667,-37.066667,BR,Sergipe,SE,685356,490175,0,0,0,0,0,I,smart
+Macapá,Brazil,0.035158,-51.061633,BR,Amapá,AP,499166,368397,65987,6599,4,73,2,A,express
+Juiz de Fora,Brazil,-21.762152,-43.348105,BR,Minas Gerais,MG,470193,459336,0,0,0,0,0,I,smart

@@ -1,0 +1,383 @@
+city,unidade,lat,lng,country,iso2,state_name,state_id,population,population_proper,fatur,compras,funcion,clientes,chamados,status
+São Paulo,São Paulo,-23.573252,-46.641681,Brazil,BR,São Paulo,SP,18845000,10021295,"R$ 1.550.000,00","R$ 155.000,00",31,527,16,A
+Rio de Janeiro,Rio de Janeiro,-22.875113,-43.277548,Brazil,BR,Rio de Janeiro,RJ,11748000,2010175,"R$ 950.256,00","R$ 95.025,60",22,374,11,A
+Belo Horizonte,Belo Horizonte,-19.901739,-43.964196,Brazil,BR,Minas Gerais,MG,5575000,2373224,"R$ 830.256,00","R$ 83.025,60",20,333,10,A
+Porto Alegre,Porto Alegre,-30.0324999,-51.2303767,Brazil,BR,Rio Grande do Sul,RS,3917000,1372741,"R$ 754.215,00","R$ 75.421,50",18,307,9,A
+Brasília,Brasília,-15.783333,-47.916667,Brazil,BR,Distrito Federal,DF,3716996,2562963,"R$ 652.100,00","R$ 65.210,00",16,273,8,A
+Recife,Recife,-8.0584933,-34.8848193,Brazil,BR,Pernambuco,PE,3651000,1478098,"R$ 542.658,00","R$ 54.265,80",14,236,7,A
+Fortaleza,Fortaleza,-3.737464,-38.546167,Brazil,BR,Ceará,CE,3602319,2315116,"R$ 352.645,00","R$ 35.264,50",10,171,5,A
+Salvador,Salvador,-12.983333,-38.516667,Brazil,BR,Bahia,BA,3484000,2678845,"R$ 521.062,00","R$ 52.106,20",13,228,7,A
+Curitiba,Curitiba,-25.4295963,-49.2712724,Brazil,BR,Paraná,PR,3084000,1498860,"R$ 321.564,00","R$ 32.156,40",9,160,5,A
+Campinas,Campinas,-22.909474,-47.067415,Brazil,BR,São Paulo,SP,2791000,1031554,"R$ 856.254,00","R$ 85.625,40",20,342,10,A
+Belém,Belém,-1.437281,-48.470614,Brazil,BR,Pará,PA,2167000,1407737,"R$ 412.523,00","R$ 41.252,30",11,191,6,A
+Goiânia,Goiânia,-16.701028,-49.266793,Brazil,BR,Goiás,GO,2022000,1171195,"R$ 53.200,00","R$ 5.320,00",4,69,2,A
+Manaus,Manaus,-3.113333,-60.025278,Brazil,BR,Amazonas,AM,1753000,1520244,"R$ 65.485,00","R$ 6.548,50",4,73,2,A
+Santos,Santos,-23.952906,-46.356071,Brazil,BR,São Paulo,SP,1709000,411403,"R$ 98.562,00","R$ 9.856,20",5,85,3,A
+Vitória,Vitória,-20.332179,-40.345011,Brazil,BR,Espírito Santo,ES,1704000,312656,"R$ 36.521,00","R$ 3.652,10",4,63,2,A
+Niterói,Niterói,-22.887107,-43.090889,Brazil,BR,Rio de Janeiro,RJ,1500513,487327,"R$ 54.125,00","R$ 5.412,50",4,69,2,A
+Vila Velha,Vila Velha,-20.333333,-40.283333,Brazil,BR,Espírito Santo,ES,1209091,275736,"R$ 67.584,00","R$ 6.758,40",4,74,2,A
+Vila Velha,Vila Velha,3.215464,-51.230103,Brazil,BR,Amapá,AP,1209091,275736,"R$ 51.654,00","R$ 5.165,40",4,69,2,A
+Maceió,Maceió,-9.652406,-35.722433,Brazil,BR,Alagoas,AL,1186000,814431,"R$ 65.325,00","R$ 6.532,50",4,73,2,A
+Natal,Natal,-5.80021,-35.210669,Brazil,BR,Rio Grande do Norte,RN,1088000,763043,"R$ 21.212,00","R$ 2.121,20",3,58,2,A
+São Luís,São Luís,-2.532519,-44.296299,Brazil,BR,Maranhão,MA,1038000,11385,"R$ 95.845,00","R$ 9.584,50",5,84,3,A
+Florianópolis,Florianópolis,-27.590444,-48.57581,Brazil,BR,Santa Catarina,SC,1023000,114566,"R$ 65.412,00","R$ 6.541,20",4,73,2,A
+Joinville,Joinville,-26.3044898,-48.8486726,Brazil,BR,Santa Catarina,SC,988000,433475,"R$ 26.542,00","R$ 2.654,20",4,60,2,A
+Natal,Natal,-6.983333,-60.283333,Brazil,BR,Amazonas,AM,980588,980588,"R$ 32.657,00","R$ 3.265,70",4,62,2,A
+João Pessoa,João Pessoa,-7.123742,-34.865646,Brazil,BR,Paraíba,PB,956000,650883,"R$ 65.412,00","R$ 6.541,20",4,73,2,I
+Olinda,Olinda,-7.9986401,-34.8459552,Brazil,BR,Pernambuco,PE,921840,397268,"R$ 25.645,00","R$ 2.564,50",4,60,2,A
+Teresina,Teresina,-5.102887,-42.801549,Brazil,BR,Piauí,PI,907000,586721,"R$ 51.256,00","R$ 5.125,60",4,68,2,I
+Novo Hamburgo,Novo Hamburgo,-29.683333,-51.133333,Brazil,BR,Rio Grande do Sul,RS,876990,237044,"R$ 98.654,00","R$ 9.865,40",5,85,3,I
+Cuiabá,Cuiabá,-15.5986686,-56.0991301,Brazil,BR,Mato Grosso,MT,806000,400287,"R$ 26.548,00","R$ 2.654,80",4,60,2,I
+Campo Grande,Campo Grande,-20.4640173,-54.6162947,Brazil,BR,Mato Grosso do Sul,MS,778000,597446,"R$ 86.598,00","R$ 8.659,80",5,80,2,N
+São José dos Campos,São José dos Campos,-23.191165,-45.878405,Brazil,BR,São Paulo,SP,753769,636876,"R$ 87.456,00","R$ 8.745,60",5,81,2,N
+Jaboatão,Jaboatão,-8.116667,-35.016667,Brazil,BR,Pernambuco,PE,702621,659807,"R$ 78.546,00","R$ 7.854,60",5,78,2,N
+Aracaju,Aracaju,-10.916667,-37.066667,Brazil,BR,Sergipe,SE,685356,490175,"R$ 72.541,00","R$ 7.254,10",4,76,2,I
+São José dos Pinhais,São José dos Pinhais,-25.531815,-49.199755,Brazil,BR,Paraná,PR,665063,279297,"R$ 72.514,00","R$ 7.251,40",4,76,2,I
+Santo André,Santo André,-23.666667,-46.516667,Brazil,BR,São Paulo,SP,662373,662373,"R$ 68.974,00","R$ 6.897,40",4,74,2,I
+Canoas,Canoas,-29.933333,-51.183333,Brazil,BR,Rio Grande do Sul,RS,600000,333322,"R$ 69.995,00","R$ 6.999,50",4,75,2,N
+Uberlândia,Uberlândia,-18.915404,-48.272587,Brazil,BR,Minas Gerais,MG,563536,406188,"R$ 96.512,00","R$ 9.651,20",5,84,3,A
+Sorocaba,Sorocaba,-23.501667,-47.458056,Brazil,BR,São Paulo,SP,563281,558862,"R$ 25.125,00","R$ 2.512,50",4,60,2,A
+Ribeirão Prêto,Ribeirão Prêto,-21.179426,-47.799874,Brazil,BR,São Paulo,SP,551267,490281,"R$ 65.412,00","R$ 6.541,20",4,73,2,A
+Londrina,Londrina,-23.3112878,-51.1595023,Brazil,BR,Paraná,PR,520238,471832,"R$ 47.854,00","R$ 4.785,40",4,67,2,A
+Jundiaí,Jundiaí,-23.195965,-46.875764,Brazil,BR,São Paulo,SP,505548,321589,"R$ 51.258,00","R$ 5.125,80",4,68,2,A
+Macapá,Macapá,0.035158,-51.061633,Brazil,BR,Amapá,AP,499166,368397,"R$ 65.656,00","R$ 6.565,60",4,73,2,A
+Feira de Santana,Feira de Santana,-12.255514,-38.965922,Brazil,BR,Bahia,BA,481911,416478,"R$ 2.232,00","R$ 223,20",3,52,2,A
+Americana,Americana,-22.752784,-47.330147,Brazil,BR,São Paulo,SP,479472,196022,"R$ 25.412,00","R$ 2.541,20",4,60,2,I
+Juiz de Fora,Juiz de Fora,-21.762152,-43.348105,Brazil,BR,Minas Gerais,MG,470193,459336,"R$ 65.245,00","R$ 6.524,50",4,73,2,I
+Volta Redonda,Volta Redonda,-22.514005,-44.109594,Brazil,BR,Rio de Janeiro,RJ,456362,249580,"R$ 87.452,00","R$ 8.745,20",5,81,2,I
+Foz do Iguaçu,Foz do Iguaçu,-25.5401479,-54.5858139,Brazil,BR,Paraná,PR,440455,293523,"R$ 5.258,00","R$ 525,80",3,53,2,N
+Campina Grande,Campina Grande,-7.224606,-35.873019,Brazil,BR,Paraíba,PB,417261,348936,"R$ 54.545,00","R$ 5.454,50",4,70,2,N
+Ipatinga,Ipatinga,-19.470369,-42.546578,Brazil,BR,Minas Gerais,MG,407894,228746,"R$ 54.548,00","R$ 5.454,80",4,70,2,A
+Taubaté,Taubaté,-23.024869,-45.551515,Brazil,BR,São Paulo,SP,403560,251641,"R$ 51.515,00","R$ 5.151,50",4,69,2,A
+Campos,Campos,-21.752274,-41.330444,Brazil,BR,Rio de Janeiro,RJ,387417,370469,"R$ 5.489,00","R$ 548,90",3,53,2,A
+Caxias do Sul,Caxias do Sul,-29.1689,-51.1785,Brazil,BR,Rio Grande do Sul,RS,381270,373891,"R$ 9.856,00","R$ 985,60",3,54,2,N
+São José do Rio Prêto,São José do Rio Prêto,-20.810359,-49.380933,Brazil,BR,São Paulo,SP,374699,341788,"R$ 9.874,00","R$ 987,40",3,54,2,A
+Piracicaba,Piracicaba,-22.727405,-47.644829,Brazil,BR,São Paulo,SP,342209,316851,"R$ 5.868,00","R$ 586,80",3,53,2,A
+Bauru,Bauru,-22.323868,-49.078035,Brazil,BR,São Paulo,SP,335024,280835,"R$ 8.596,00","R$ 859,60",3,54,2,A
+Montes Claros,Montes Claros,-16.732458,-43.861363,Brazil,BR,Minas Gerais,MG,332379,267665,"R$ 9.998,00","R$ 999,80",3,54,2,A
+Maringá,Maringá,-23.416667,-51.916667,Brazil,BR,Paraná,PR,328335,311724,"R$ 9.658,00","R$ 965,80",3,54,2,N
+Itajaí,Itajaí,-26.934507,-48.629481,Brazil,BR,Santa Catarina,SC,327126,155716,"R$ 6.585,00","R$ 658,50",3,53,2,A
+Pelotas,Pelotas,-31.766667,-52.333333,Brazil,BR,Rio Grande do Sul,RS,320674,277866,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Itu,Itu,-23.267424,-47.294306,Brazil,BR,São Paulo,SP,320170,137586,"R$ 656.565,00","R$ 65.656,50",16,274,8,A
+Anápolis,Anápolis,-16.326132,-48.950624,Brazil,BR,Goiás,GO,319587,237604,"R$ 85.858,00","R$ 8.585,80",5,80,2,I
+Vitória da Conquista,Vitória da Conquista,-14.860602,-40.842659,Brazil,BR,Bahia,BA,308204,236437,"R$ 54.545,00","R$ 5.454,50",4,70,2,I
+Pôrto Velho,Pôrto Velho,-8.7494525,-63.8735438,Brazil,BR,Rondônia,RO,306180,272889,"R$ 5.454,00","R$ 545,40",3,53,2,A
+Franca,Franca,-20.540028,-47.395452,Brazil,BR,São Paulo,SP,305041,257258,"R$ 8.574,00","R$ 857,40",3,54,2,A
+Blumenau,Blumenau,-26.915555,-49.093608,Brazil,BR,Santa Catarina,SC,293949,278703,"R$ 2.524,00","R$ 252,40",3,52,2,A
+Ponta Grossa,Ponta Grossa,-25.0891685,-50.1601812,Brazil,BR,Paraná,PR,292177,250466,"R$ 5.412,00","R$ 541,20",3,53,2,I
+Limeira,Limeira,-22.563182,-47.400884,Brazil,BR,São Paulo,SP,289665,192477,"R$ 8.754,00","R$ 875,40",3,54,2,I
+Petrópolis,Petrópolis,-22.497469,-43.162728,Brazil,BR,Rio de Janeiro,RJ,286071,272691,"R$ 1.346,00","R$ 134,60",3,51,2,A
+Crato,Crato,-7.232173,-39.410949,Brazil,BR,Ceará,CE,273883,54416,"R$ 2.164,00","R$ 216,40",3,52,2,A
+Crato,Crato,-7.483333,-63.033333,Brazil,BR,Amazonas,AM,273883,54416,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Cabo Frio,Cabo Frio,-22.886365,-42.028794,Brazil,BR,Rio de Janeiro,RJ,261721,108239,"R$ 8.454,00","R$ 845,40",3,54,2,I
+Petrolina,Petrolina,-9.392996,-40.507734,Brazil,BR,Pernambuco,PE,260985,194650,"R$ 4.548,00","R$ 454,80",3,53,2,I
+Uberaba,Uberaba,-19.75619,-47.932585,Brazil,BR,Minas Gerais,MG,260843,208771,"R$ 5.454,00","R$ 545,40",3,53,2,A
+Rio Branco,Rio Branco,-9.9765362,-67.8220778,Brazil,BR,Acre,AC,257642,257642,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Cascavel,Cascavel,-24.9554996,-53.4560544,Brazil,BR,Paraná,PR,257172,201428,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Governador Valadares,Governador Valadares,-18.861269,-41.951338,Brazil,BR,Minas Gerais,MG,250878,151756,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Várzea Grande,Várzea Grande,-15.645816,-56.132218,Brazil,BR,Mato Grosso,MT,249752,234424,"R$ 5.484,00","R$ 548,40",3,53,2,A
+Santa Maria,Santa Maria,-29.6860512,-53.8069214,Brazil,BR,Rio Grande do Sul,RS,249219,229204,"R$ 5.545,00","R$ 554,50",3,53,2,A
+Caruaru,Caruaru,-8.283806,-35.974222,Brazil,BR,Pernambuco,PE,242094,235371,"R$ 8.488,00","R$ 848,80",3,54,2,A
+Palmas,Palmas,-10.166944,-48.332778,Brazil,BR,Tocantins,TO,235315,196272,"R$ 85.744,00","R$ 8.574,40",5,80,2,A
+Boa Vista,Boa Vista,2.820842,-60.671312,Brazil,BR,Roraima,RR,235150,169449,"R$ 54.548,00","R$ 5.454,80",4,70,2,A
+Ilhéus,Ilhéus,-14.788949,-39.046474,Brazil,BR,Bahia,BA,230622,155499,"R$ 58.457,00","R$ 5.845,70",4,71,2,A
+Santarém,Santarém,-2.435899,-54.715599,Brazil,BR,Pará,PA,230428,189047,"R$ 58.745,00","R$ 5.874,50",4,71,2,A
+Juazeiro do Norte,Juazeiro do Norte,-7.211555,-39.314199,Brazil,BR,Ceará,CE,225230,220492,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Itabuna,Itabuna,-14.78648,-39.272775,Brazil,BR,Bahia,BA,221938,205660,"R$ 54.545,00","R$ 5.454,50",4,70,2,I
+Imperatriz,Imperatriz,-5.522465,-47.4745,Brazil,BR,Maranhão,MA,218106,188573,"R$ 54.545,00","R$ 5.454,50",4,70,2,I
+Marília,Marília,-22.214393,-49.948493,Brazil,BR,São Paulo,SP,212218,169949,"R$ 85.848,00","R$ 8.584,80",5,80,2,I
+Presidente Prudente,Presidente Prudente,-22.116667,-51.366667,Brazil,BR,São Paulo,SP,209502,189942,"R$ 98.989,00","R$ 9.898,90",5,85,3,I
+São Carlos,São Carlos,-22.015403,-47.888001,Brazil,BR,São Paulo,SP,205035,145403,"R$ 65.656,00","R$ 6.565,60",4,73,2,I
+Criciúma,Criciúma,-28.675355,-49.368291,Brazil,BR,Santa Catarina,SC,204217,161954,"R$ 87.878,00","R$ 8.787,80",5,81,2,I
+Guaratinguetá,Guaratinguetá,-22.821979,-45.195296,Brazil,BR,São Paulo,SP,203580,105880,"R$ 45.454,00","R$ 4.545,40",4,66,2,A
+Timon,Timon,-5.098189,-42.835108,Brazil,BR,Maranhão,MA,203157,203157,"R$ 5.454,00","R$ 545,40",3,53,2,A
+Mossoró,Mossoró,-5.191389,-37.344722,Brazil,BR,Rio Grande do Norte,RN,202583,202005,"R$ 51.451,00","R$ 5.145,10",4,68,2,A
+Sete Lagoas,Sete Lagoas,-19.458338,-44.236618,Brazil,BR,Minas Gerais,MG,201334,188730,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Divinópolis,Divinópolis,-20.149747,-44.889643,Brazil,BR,Minas Gerais,MG,193832,169082,"R$ 8.184,00","R$ 818,40",3,54,2,N
+Rio Grande,Rio Grande,-32.033333,-52.083333,Brazil,BR,Rio Grande do Sul,RS,187838,98462,"R$ 1.658,00","R$ 165,80",3,52,2,N
+Arapiraca,Arapiraca,-9.750035,-36.659731,Brazil,BR,Alagoas,AL,187668,166562,"R$ 2.658,00","R$ 265,80",3,52,2,A
+Cachoeiro de Itapemirim,Cachoeiro de Itapemirim,-20.852906,-41.1192,Brazil,BR,Espírito Santo,ES,187019,162598,"R$ 3.698,00","R$ 369,80",3,52,2,N
+Rio Claro,Rio Claro,-22.40619,-47.557706,Brazil,BR,São Paulo,SP,180147,175273,"R$ 1.478,00","R$ 147,80",3,52,2,A
+Passo Fundo,Passo Fundo,-28.2550598,-52.3966606,Brazil,BR,Rio Grande do Sul,RS,179529,148565,"R$ 1.265,00","R$ 126,50",3,51,2,I
+Nova Friburgo,Nova Friburgo,-22.28372,-42.534343,Brazil,BR,Rio de Janeiro,RJ,171991,153361,"R$ 1.345,00","R$ 134,50",3,51,2,N
+Araçatuba,Araçatuba,-21.207992,-50.4390225,Brazil,BR,São Paulo,SP,170024,162586,"R$ 1.587,00","R$ 158,70",3,52,2,I
+Barra Mansa,Barra Mansa,-22.54925,-44.168807,Brazil,BR,Rio de Janeiro,RJ,169386,164052,"R$ 4.589,00","R$ 458,90",3,53,2,N
+Marabá,Marabá,-5.340677,-49.095483,Brazil,BR,Pará,PA,166182,166182,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Carpina,Carpina,-7.846039,-35.256438,Brazil,BR,Pernambuco,PE,165579,70689,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Lajes,Lajes,-27.812148,-50.315421,Brazil,BR,Santa Catarina,SC,164676,115268,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Dourados,Dourados,-22.2206145,-54.812208,Brazil,BR,Mato Grosso do Sul,MS,162202,127285,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Chapecó,Chapecó,-27.0922364,-52.6166878,Brazil,BR,Santa Catarina,SC,160157,149431,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Rio Largo,Rio Largo,-9.481869,-35.84637,Brazil,BR,Alagoas,AL,158545,63387,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Barreiras,Barreiras,-12.146051,-44.997652,Brazil,BR,Bahia,BA,158292,14199,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Sobral,Sobral,-3.686716,-40.351535,Brazil,BR,Ceará,CE,157996,138883,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Rondonópolis,Rondonópolis,-16.46793,-54.641416,Brazil,BR,Mato Grosso,MT,152912,140676,"R$ 8.181,00","R$ 818,10",3,54,2,A
+Guarapuava,Guarapuava,-25.3950986,-51.4622016,Brazil,BR,Paraná,PR,150850,95913,"R$ 82.828,00","R$ 8.282,80",5,79,2,A
+Poços de Caldas,Poços de Caldas,-21.786861,-46.564644,Brazil,BR,Minas Gerais,MG,146588,104409,"R$ 8.080,00","R$ 808,00",3,54,2,I
+Macaé,Macaé,-22.382323,-41.775374,Brazil,BR,Rio de Janeiro,RJ,143029,123137,"R$ 8.080,00","R$ 808,00",3,54,2,A
+Paranaguá,Paranaguá,-25.512773,-48.542707,Brazil,BR,Paraná,PR,141013,129129,"R$ 84.850,00","R$ 8.485,00",5,80,2,N
+Parnaíba,Parnaíba,-2.909167,-41.774722,Brazil,BR,Piauí,PI,138008,113390,"R$ 8.484,00","R$ 848,40",3,54,2,I
+Castanhal,Castanhal,-1.295297,-47.922035,Brazil,BR,Pará,PA,137406,113223,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Jequié,Jequié,-13.8604033,-40.0719627,Brazil,BR,Bahia,BA,135574,127475,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Caxias,Caxias,-4.867909,-43.362745,Brazil,BR,Maranhão,MA,134640,134640,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Pindamonhangaba,Pindamonhangaba,-22.928668,-45.457445,Brazil,BR,São Paulo,SP,132218,115752,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Jaraguá do Sul,Jaraguá do Sul,-26.483333,-49.066667,Brazil,BR,Santa Catarina,SC,130130,127477,"R$ 2.510,00","R$ 251,00",3,52,2,N
+Bragança Paulista,Bragança Paulista,-22.9520235,-46.5418586,Brazil,BR,São Paulo,SP,127676,125096,"R$ 6.560,00","R$ 656,00",3,53,2,N
+Itapetininga,Itapetininga,-23.587115,-48.040777,Brazil,BR,São Paulo,SP,126243,115535,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Alagoinhas,Alagoinhas,-12.132504,-38.427789,Brazil,BR,Bahia,BA,124070,122688,"R$ 9.860,00","R$ 986,00",3,54,2,N
+Uruguaiana,Uruguaiana,-29.7564894,-57.0867197,Brazil,BR,Rio Grande do Sul,RS,123480,71993,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Pôrto Seguro,Pôrto Seguro,-16.449502,-39.063499,Brazil,BR,Bahia,BA,123173,20889,"R$ 6.870,00","R$ 687,00",3,53,2,I
+Barbacena,Barbacena,-21.224743,-43.766666,Brazil,BR,Minas Gerais,MG,122211,81046,"R$ 48.960,00","R$ 4.896,00",4,68,2,N
+Jaú,Jaú,-22.294121,-48.558334,Brazil,BR,São Paulo,SP,119206,85925,"R$ 5.659,00","R$ 565,90",3,53,2,I
+Pouso Alegre,Pouso Alegre,-22.230058,-45.938133,Brazil,BR,Minas Gerais,MG,115201,89834,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Botucatu,Botucatu,-22.883468,-48.441546,Brazil,BR,São Paulo,SP,113862,76015,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Santa Cruz do Sul,Santa Cruz do Sul,-29.716667,-52.433333,Brazil,BR,Rio Grande do Sul,RS,113625,106113,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Conselheiro Lafaiete,Conselheiro Lafaiete,-20.668436,-43.784966,Brazil,BR,Minas Gerais,MG,111596,94256,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Garanhuns,Garanhuns,-8.886552,-36.493069,Brazil,BR,Pernambuco,PE,110085,104145,"R$ 7.845,00","R$ 784,50",3,54,2,N
+Catanduva,Catanduva,-21.135986,-48.970331,Brazil,BR,São Paulo,SP,109612,100864,"R$ 9.797,00","R$ 979,70",3,54,2,N
+Apucarana,Apucarana,-23.5525327,-51.4610764,Brazil,BR,Paraná,PR,107085,98069,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Bagé,Bagé,-31.3314264,-54.1062808,Brazil,BR,Rio Grande do Sul,RS,106098,98940,"R$ 8.484,00","R$ 848,40",3,54,2,N
+Linhares,Linhares,-19.393643,-40.058149,Brazil,BR,Espírito Santo,ES,105075,67751,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Barretos,Barretos,-20.554421,-48.572864,Brazil,BR,São Paulo,SP,101220,93904,"R$ 1.256,00","R$ 125,60",3,51,2,I
+Teófilo Otoni,Teófilo Otoni,-17.865665,-41.502653,Brazil,BR,Minas Gerais,MG,101170,72560,"R$ 1.919,00","R$ 191,90",3,52,2,N
+Passos,Passos,-20.720836,-46.605426,Brazil,BR,Minas Gerais,MG,98752,71521,"R$ 1.345,00","R$ 134,50",3,51,2,I
+Ubá,Ubá,-21.118183,-42.94306,Brazil,BR,Minas Gerais,MG,97828,65569,"R$ 1.784,00","R$ 178,40",3,52,2,N
+Ourinhos,Ourinhos,-22.98143,-49.864721,Brazil,BR,São Paulo,SP,97799,96189,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Trindade,Trindade,-16.653025,-49.49381,Brazil,BR,Goiás,GO,97521,88705,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Arapongas,Arapongas,-23.4152862,-51.4293961,Brazil,BR,Paraná,PR,97512,84895,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Araguari,Araguari,-18.65064,-48.189398,Brazil,BR,Minas Gerais,MG,96565,63256,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Corumbá,Corumbá,-19.0016365,-57.6534316,Brazil,BR,Mato Grosso do Sul,MS,96520,43551,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Erechim,Erechim,-27.633333,-52.283333,Brazil,BR,Rio Grande do Sul,RS,96087,74644,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Juazeiro,Juazeiro,-9.420649,-40.504265,Brazil,BR,Bahia,BA,95132,95132,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Ponta Porã,Ponta Porã,-22.533333,-55.716667,Brazil,BR,Mato Grosso do Sul,MS,94331,55763,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Bento Gonçalves,Bento Gonçalves,-29.166667,-51.516667,Brazil,BR,Rio Grande do Sul,RS,94271,90852,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Tatuí,Tatuí,-23.346529,-47.846222,Brazil,BR,São Paulo,SP,93580,70292,"R$ 5.484,00","R$ 548,40",3,53,2,A
+Patos,Patos,-7.025445,-37.276728,Brazil,BR,Paraíba,PB,92575,78866,"R$ 5.545,00","R$ 554,50",3,53,2,I
+Itaituba,Itaituba,-4.216667,-56.016667,Brazil,BR,Pará,PA,92308,64756,"R$ 8.488,00","R$ 848,80",3,54,2,A
+Tubarão,Tubarão,-28.480781,-49.015527,Brazil,BR,Santa Catarina,SC,92275,67245,"R$ 85.744,00","R$ 8.574,40",5,80,2,N
+Muriaé,Muriaé,-21.133333,-42.366667,Brazil,BR,Minas Gerais,MG,91173,62284,"R$ 48,00","R$ 4,80",3,51,2,I
+Itanhaém,Itanhaém,-24.183333,-46.783333,Brazil,BR,São Paulo,SP,90385,75059,"R$ 58.457,00","R$ 5.845,70",4,71,2,A
+Santana do Livramento,Santana do Livramento,-30.883333,-55.516667,Brazil,BR,Rio Grande do Sul,RS,89694,84930,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Nova Lima,Nova Lima,-19.988766,-43.850756,Brazil,BR,Minas Gerais,MG,88399,32428,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Brusque,Brusque,-27.099612,-48.910795,Brazil,BR,Santa Catarina,SC,88284,74043,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Assis,Assis,-22.666667,-50.416667,Brazil,BR,São Paulo,SP,87471,70795,"R$ 5.648,00","R$ 564,80",3,53,2,N
+Paulo Afonso,Paulo Afonso,-9.438741,-38.217467,Brazil,BR,Bahia,BA,85350,85350,"R$ 6.547,00","R$ 654,70",3,53,2,N
+Ituiutaba,Ituiutaba,-18.978542,-49.45555,Brazil,BR,Minas Gerais,MG,85345,42611,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Santana,Santana,-0.042261,-51.168861,Brazil,BR,Amapá,AP,83927,53771,"R$ 9.797,00","R$ 979,70",3,54,2,N
+Codó,Codó,-4.45559,-43.892137,Brazil,BR,Maranhão,MA,83288,83288,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Araxá,Araxá,-19.595459,-46.93688,Brazil,BR,Minas Gerais,MG,82595,57724,"R$ 8.484,00","R$ 848,40",3,54,2,I
+Lavras,Lavras,-21.242429,-44.997852,Brazil,BR,Minas Gerais,MG,81472,59400,"R$ 8.484,00","R$ 848,40",3,54,2,N
+Avaré,Avaré,-23.10544,-48.919067,Brazil,BR,São Paulo,SP,81285,60133,"R$ 1.256,00","R$ 125,60",3,51,2,I
+Formosa,Formosa,-15.533333,-47.333333,Brazil,BR,Goiás,GO,81232,43939,"R$ 1.919,00","R$ 191,90",3,52,2,N
+Itumbiara,Itumbiara,-18.412247,-49.214267,Brazil,BR,Goiás,GO,79582,51105,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Abaetetuba,Abaetetuba,-1.724735,-48.881345,Brazil,BR,Pará,PA,79420,78050,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Três Lagoas,Três Lagoas,-20.7866799,-51.7061247,Brazil,BR,Mato Grosso do Sul,MS,78712,49723,"R$ 2.510,00","R$ 251,00",3,52,2,A
+São João del Rei,São João del Rei,-21.134083,-44.256308,Brazil,BR,Minas Gerais,MG,78592,58871,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Itaúna,Itaúna,-20.076647,-44.574877,Brazil,BR,Minas Gerais,MG,77400,63066,"R$ 8.480,00","R$ 848,00",3,54,2,A
+São Mateus,São Mateus,-18.720196,-39.862631,Brazil,BR,Espírito Santo,ES,77117,49634,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Jataí,Jataí,-17.887249,-51.718183,Brazil,BR,Goiás,GO,76547,37723,"R$ 5.458,00","R$ 545,80",3,53,2,A
+São João da Boa Vista,São João da Boa Vista,-21.974499,-46.793944,Brazil,BR,São Paulo,SP,76540,60792,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Tucuruí,Tucuruí,-3.7738509,-49.6708204,Brazil,BR,Pará,PA,76337,607,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Campo Mourão,Campo Mourão,-24.046329,-52.37802,Brazil,BR,Paraná,PR,75401,72945,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Cachoeira do Sul,Cachoeira do Sul,-30.0474778,-52.8905413,Brazil,BR,Rio Grande do Sul,RS,74694,49048,"R$ 54.545,00","R$ 5.454,50",4,70,2,I
+Bacabal,Bacabal,-4.233333,-44.783333,Brazil,BR,Maranhão,MA,72372,42221,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Pôrto União,Pôrto União,-26.2336416,-51.082771,Brazil,BR,Santa Catarina,SC,71578,28907,"R$ 8.484,00","R$ 848,40",3,54,2,N
+Goiana,Goiana,-7.563649,-34.996142,Brazil,BR,Pernambuco,PE,71549,43980,"R$ 6.598,00","R$ 659,80",3,53,2,I
+Ijuí,Ijuí,-28.383333,-53.916667,Brazil,BR,Rio Grande do Sul,RS,71202,46892,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Altamira,Altamira,-3.204744,-52.212397,Brazil,BR,Pará,PA,70888,42650,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Paracatu,Paracatu,-17.221089,-46.874122,Brazil,BR,Minas Gerais,MG,70753,32594,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Iguatu,Iguatu,-6.361934,-39.2972233,Brazil,BR,Ceará,CE,70380,42896,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Paragominas,Paragominas,-2.966667,-47.483333,Brazil,BR,Pará,PA,69613,6578,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Guajará-Mirim,Guajará-Mirim,-10.7804239,-65.3327825,Brazil,BR,Rondônia,RO,69586,34119,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Jabuticabal,Jabuticabal,-21.25555,-48.320455,Brazil,BR,São Paulo,SP,69394,52167,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Balsas,Balsas,-7.530741,-46.035844,Brazil,BR,Maranhão,MA,68056,11467,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Santa Inês,Santa Inês,-3.668593,-45.377182,Brazil,BR,Maranhão,MA,67424,49599,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Rio Negro,Rio Negro,-26.0934,-49.7895,Brazil,BR,Paraná,PR,65597,23006,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Santo Ângelo,Santo Ângelo,-28.3000481,-54.2669971,Brazil,BR,Rio Grande do Sul,RS,65420,64606,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Ji-Paraná,Ji-Paraná,-10.833333,-61.966667,Brazil,BR,Rondônia,RO,65016,65016,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Gurupi,Gurupi,-11.728889,-49.068889,Brazil,BR,Tocantins,TO,64789,26402,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Parintins,Parintins,-2.632757,-56.732798,Brazil,BR,Amazonas,AM,64428,64428,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Curvelo,Curvelo,-18.760738,-44.427531,Brazil,BR,Minas Gerais,MG,63954,27920,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Caçador,Caçador,-26.77567,-51.0120041,Brazil,BR,Santa Catarina,SC,63726,50585,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Irecê,Irecê,-11.305563,-41.8587,Brazil,BR,Bahia,BA,63626,32533,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Catalão,Catalão,-18.179174,-47.941537,Brazil,BR,Goiás,GO,63544,43749,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Vilhena,Vilhena,-12.73635,-60.130931,Brazil,BR,Rondônia,RO,63231,63231,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Valença,Valença,-13.372066,-39.072694,Brazil,BR,Bahia,BA,63231,49938,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Itapeva,Itapeva,-23.980184,-48.875006,Brazil,BR,São Paulo,SP,62957,47691,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Tupã,Tupã,-21.9349129,-50.5141255,Brazil,BR,São Paulo,SP,62035,41562,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Fernandópolis,Fernandópolis,-20.266667,-50.233333,Brazil,BR,São Paulo,SP,61931,49243,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Canela,Canela,-29.360571,-50.809458,Brazil,BR,Rio Grande do Sul,RS,60806,33528,"R$ 5.648,00","R$ 564,80",3,53,2,I
+Piraçununga,Piraçununga,-21.996345,-47.420963,Brazil,BR,São Paulo,SP,60413,42983,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Pirapora,Pirapora,-17.337368,-44.927144,Brazil,BR,Minas Gerais,MG,60164,51656,"R$ 7.845,00","R$ 784,50",3,54,2,N
+Caratinga,Caratinga,-19.790133,-42.141654,Brazil,BR,Minas Gerais,MG,60066,34969,"R$ 9.797,00","R$ 979,70",3,54,2,I
+Itapetinga,Itapetinga,-15.2454478,-40.2460053,Brazil,BR,Bahia,BA,59721,26727,"R$ 9.898,00","R$ 989,80",3,54,2,A
+São Borja,São Borja,-28.6592237,-56.0044295,Brazil,BR,Rio Grande do Sul,RS,59613,37288,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Caràzinho,Caràzinho,-28.2981634,-52.7942363,Brazil,BR,Rio Grande do Sul,RS,59417,38873,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Santa Rosa,Santa Rosa,-27.866667,-54.483333,Brazil,BR,Rio Grande do Sul,RS,59281,58957,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Manacapuru,Manacapuru,-3.290776,-60.625954,Brazil,BR,Amazonas,AM,59102,52459,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Telêmaco Borba,Telêmaco Borba,-24.326357,-50.61908,Brazil,BR,Paraná,PR,58880,48707,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Guanambi,Guanambi,-14.225972,-42.778218,Brazil,BR,Bahia,BA,58877,32583,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Ariquemes,Ariquemes,-9.9076522,-63.033069,Brazil,BR,Rondônia,RO,58096,58096,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Timbaúba,Timbaúba,-7.505335,-35.319293,Brazil,BR,Pernambuco,PE,57534,45121,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Picos,Picos,-7.080019,-41.468277,Brazil,BR,Piauí,PI,57495,37894,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Arcoverde,Arcoverde,-8.416667,-37.066667,Brazil,BR,Pernambuco,PE,57163,48969,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Bragança,Bragança,-1.051948,-46.77015,Brazil,BR,Pará,PA,57163,56566,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Cruzeiro do Sul,Cruzeiro do Sul,-7.9609552,-72.7370575,Brazil,BR,Acre,AC,56862,56862,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Serrinha,Serrinha,-11.66113,-38.997617,Brazil,BR,Bahia,BA,56829,49078,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Vacaria,Vacaria,-28.506092,-50.933847,Brazil,BR,Rio Grande do Sul,RS,56765,37786,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Janaúba,Janaúba,-15.804089,-43.308283,Brazil,BR,Minas Gerais,MG,56572,20710,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Formiga,Formiga,-20.464907,-45.426774,Brazil,BR,Minas Gerais,MG,56404,35749,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Nova Viçosa,Nova Viçosa,-17.890028,-39.368185,Brazil,BR,Bahia,BA,55980,4520,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Itapipoca,Itapipoca,-3.499329,-39.583571,Brazil,BR,Ceará,CE,55784,6298,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Estância,Estância,-11.266667,-37.433333,Brazil,BR,Sergipe,SE,55654,45726,"R$ 5.648,00","R$ 564,80",3,53,2,A
+São Gabriel,São Gabriel,-30.333333,-54.316667,Brazil,BR,Rio Grande do Sul,RS,55434,28265,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Concórdia,Concórdia,-27.233333,-52.016667,Brazil,BR,Santa Catarina,SC,55367,36882,"R$ 7.845,00","R$ 784,50",3,54,2,A
+São José de Ribamar,São José de Ribamar,-2.547059,-44.066874,Brazil,BR,Maranhão,MA,55265,27777,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Caicó,Caicó,-6.463238,-37.094921,Brazil,BR,Rio Grande do Norte,RN,54934,29822,"R$ 9.898,00","R$ 989,80",3,54,2,I
+Penápolis,Penápolis,-21.4192406,-50.0765588,Brazil,BR,São Paulo,SP,54477,35113,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Coari,Coari,-4.093753,-63.139426,Brazil,BR,Amazonas,AM,53305,50490,"R$ 8.484,00","R$ 848,40",3,54,2,N
+Registro,Registro,-24.49421,-47.844913,Brazil,BR,São Paulo,SP,53273,45697,"R$ 1.256,00","R$ 125,60",3,51,2,I
+Camaquã,Camaquã,-30.8524752,-51.8075619,Brazil,BR,Rio Grande do Sul,RS,53169,37056,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Crateús,Crateús,-5.166667,-40.666667,Brazil,BR,Ceará,CE,52933,27743,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Andradina,Andradina,-20.896505,-51.3742765,Brazil,BR,São Paulo,SP,52406,39024,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Barra do Garças,Barra do Garças,-15.8916033,-52.2615413,Brazil,BR,Mato Grosso,MT,52398,30031,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Batatais,Batatais,-20.892176,-47.59014,Brazil,BR,São Paulo,SP,51976,36146,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Itacoatiara,Itacoatiara,-3.142026,-58.443621,Brazil,BR,Amazonas,AM,51509,51509,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Tefé,Tefé,-3.356333,-64.696393,Brazil,BR,Amazonas,AM,51437,44942,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Araguaína,Araguaína,-7.189338,-48.205358,Brazil,BR,Tocantins,TO,50444,50444,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Quixadá,Quixadá,-4.966667,-39.016667,Brazil,BR,Ceará,CE,49328,12119,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Barra do Corda,Barra do Corda,-5.503082,-45.236929,Brazil,BR,Maranhão,MA,48901,48901,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Floriano,Floriano,-6.773038,-43.018779,Brazil,BR,Piauí,PI,48587,23259,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Senhor do Bonfim,Senhor do Bonfim,-10.459629,-40.189241,Brazil,BR,Bahia,BA,48471,38683,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Rio Verde,Rio Verde,-17.791957,-50.918933,Brazil,BR,Goiás,GO,48318,48318,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Ponte Nova,Ponte Nova,-20.411369,-42.895958,Brazil,BR,Minas Gerais,MG,48187,32567,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Guaxupé,Guaxupé,-21.304673,-46.707454,Brazil,BR,Minas Gerais,MG,47889,38870,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Goianésia,Goianésia,-15.325971,-49.117216,Brazil,BR,Goiás,GO,47883,30552,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Capanema,Capanema,-1.1933054,-47.1828679,Brazil,BR,Pará,PA,47766,43896,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Itamaraju,Itamaraju,-17.043802,-39.530049,Brazil,BR,Bahia,BA,47628,22482,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Campo Belo,Campo Belo,-20.892555,-45.272604,Brazil,BR,Minas Gerais,MG,47491,36594,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Itaberaba,Itaberaba,-12.530067,-40.305439,Brazil,BR,Bahia,BA,47301,16143,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Breves,Breves,-1.681558,-50.479573,Brazil,BR,Pará,PA,47164,46473,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Leopoldina,Leopoldina,-21.531564,-42.638258,Brazil,BR,Minas Gerais,MG,46742,28082,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Irati,Irati,-25.462854,-50.651285,Brazil,BR,Paraná,PR,45830,37374,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Cametá,Cametá,-2.242949,-49.497885,Brazil,BR,Pará,PA,45200,210,"R$ 1.919,00","R$ 191,90",3,52,2,I
+Piripiri,Piripiri,-4.270812,-41.78118,Brazil,BR,Piauí,PI,44864,20414,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Camocim,Camocim,-2.899983,-40.845038,Brazil,BR,Ceará,CE,44481,11108,"R$ 1.784,00","R$ 178,40",3,52,2,N
+Aracati,Aracati,-4.566667,-37.766667,Brazil,BR,Ceará,CE,44293,11960,"R$ 2.510,00","R$ 251,00",3,52,2,I
+Inhumas,Inhumas,-16.361361,-49.500253,Brazil,BR,Goiás,GO,44058,28186,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Imbituba,Imbituba,-28.239828,-48.672433,Brazil,BR,Santa Catarina,SC,43450,13310,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Araranguá,Araranguá,-28.933333,-49.483333,Brazil,BR,Santa Catarina,SC,43444,40953,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Canindé,Canindé,-4.357642,-39.312132,Brazil,BR,Ceará,CE,42720,21450,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Salgueiro,Salgueiro,-8.072065,-39.122427,Brazil,BR,Pernambuco,PE,42152,20978,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Penedo,Penedo,-10.29103,-36.573579,Brazil,BR,Alagoas,AL,42097,32934,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Castro,Castro,-24.794072,-49.9972914,Brazil,BR,Paraná,PR,42091,34744,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Brumado,Brumado,-14.20737,-41.671629,Brazil,BR,Bahia,BA,41989,16611,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Canoinhas,Canoinhas,-26.17532,-50.393696,Brazil,BR,Santa Catarina,SC,41498,38862,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Jaguaquara,Jaguaquara,-13.530735,-39.969096,Brazil,BR,Bahia,BA,41498,19611,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Garça,Garça,-22.216911,-49.653177,Brazil,BR,São Paulo,SP,41302,35618,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Palmeira dos Índios,Palmeira dos Índios,-9.411065,-36.628634,Brazil,BR,Alagoas,AL,41095,41095,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Salinópolis,Salinópolis,-0.611765,-47.335021,Brazil,BR,Pará,PA,40998,23771,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Frutal,Frutal,-20.028153,-48.937764,Brazil,BR,Minas Gerais,MG,40931,12663,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Chapadinha,Chapadinha,-3.7416803,-43.3548006,Brazil,BR,Maranhão,MA,40804,18811,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Aquidauana,Aquidauana,-20.473969,-55.7821375,Brazil,BR,Mato Grosso do Sul,MS,40803,35303,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Bom Jesus da Lapa,Bom Jesus da Lapa,-13.250571,-43.410754,Brazil,BR,Bahia,BA,40691,40691,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Laguna,Laguna,-28.483333,-48.783333,Brazil,BR,Santa Catarina,SC,39711,25353,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Russas,Russas,-4.939011,-37.968919,Brazil,BR,Ceará,CE,39465,27762,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Palmas,Palmas,-26.483868,-51.988812,Brazil,BR,Paraná,PR,39150,20439,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Mineiros,Mineiros,-17.568057,-52.551001,Brazil,BR,Goiás,GO,38951,17543,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Pinheiro,Pinheiro,-2.524346,-45.078326,Brazil,BR,Maranhão,MA,38893,10931,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Joaçaba,Joaçaba,-27.1737204,-51.5065214,Brazil,BR,Santa Catarina,SC,38876,23516,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Remanso,Remanso,-9.621255,-42.082331,Brazil,BR,Bahia,BA,37945,37945,"R$ 6.560,00","R$ 656,00",3,53,2,I
+Nanuque,Nanuque,-17.842428,-40.345326,Brazil,BR,Minas Gerais,MG,37824,16597,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Diamantina,Diamantina,-18.241451,-43.610005,Brazil,BR,Minas Gerais,MG,37343,13026,"R$ 9.860,00","R$ 986,00",3,54,2,N
+Rosário do Sul,Rosário do Sul,-30.2527151,-54.9179382,Brazil,BR,Rio Grande do Sul,RS,36721,20472,"R$ 5.458,00","R$ 545,80",3,53,2,I
+Cristalina,Cristalina,-16.76718,-47.606441,Brazil,BR,Goiás,GO,36531,14724,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Guaíra,Guaíra,-24.0851924,-54.2567519,Brazil,BR,Paraná,PR,36426,21369,"R$ 6.565,00","R$ 656,50",3,53,2,A
+São Francisco do Sul,São Francisco do Sul,-26.2582,-48.6326,Brazil,BR,Santa Catarina,SC,36224,12485,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Açu,Açu,-5.577222,-36.9075,Brazil,BR,Rio Grande do Norte,RN,36125,30481,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Oriximiná,Oriximiná,-1.763429,-55.861981,Brazil,BR,Pará,PA,35581,35019,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Barreiros,Barreiros,-8.817778,-35.185833,Brazil,BR,Pernambuco,PE,35565,35380,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Xique-Xique,Xique-Xique,-10.823803,-42.72965,Brazil,BR,Bahia,BA,35433,1833,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Barreirinho,Barreirinho,-23.1297,-50.0098,Brazil,BR,Paraná,PR,35090,32012,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Itapecuru Mirim,Itapecuru Mirim,-3.39634,-44.356376,Brazil,BR,Maranhão,MA,34943,9751,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Januária,Januária,-15.488664,-44.35988,Brazil,BR,Minas Gerais,MG,34811,16695,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Osório,Osório,-29.891278,-50.267421,Brazil,BR,Rio Grande do Sul,RS,34628,27136,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Morrinhos,Morrinhos,-17.735354,-49.108203,Brazil,BR,Goiás,GO,34143,21539,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Coroatá,Coroatá,-4.130958,-44.123484,Brazil,BR,Maranhão,MA,34129,34129,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Capitão Poço,Capitão Poço,-1.747211,-47.060334,Brazil,BR,Pará,PA,32704,32704,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Maués,Maués,-3.390607,-57.71385,Brazil,BR,Amazonas,AM,32561,22475,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Paranaíba,Paranaíba,-19.673868,-51.186366,Brazil,BR,Mato Grosso do Sul,MS,32217,18340,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Bocaiúva,Bocaiúva,-17.114627,-43.813784,Brazil,BR,Minas Gerais,MG,32114,12943,"R$ 1.345,00","R$ 134,50",3,51,2,A
+São Luís Gonzaga,São Luís Gonzaga,-28.4074546,-54.9609081,Brazil,BR,Rio Grande do Sul,RS,31798,23799,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Campo Maior,Campo Maior,-4.825709,-42.167355,Brazil,BR,Piauí,PI,31739,16440,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Jacareacanga,Jacareacanga,-6.2196518,-57.758625,Brazil,BR,Pará,PA,31661,31661,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Barra do Bugres,Barra do Bugres,-15.067458,-57.186424,Brazil,BR,Mato Grosso,MT,31311,13461,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Tucano,Tucano,-10.964268,-38.784847,Brazil,BR,Bahia,BA,31203,1195,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Presidente Dutra,Presidente Dutra,-5.285216,-44.487286,Brazil,BR,Alagoas,AL,30330,30330,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Grajaú,Grajaú,-5.816667,-46.133333,Brazil,BR,Maranhão,MA,30217,30217,"R$ 6.870,00","R$ 687,00",3,53,2,I
+Novo Horizonte,Novo Horizonte,-21.467046,-49.219699,Brazil,BR,São Paulo,SP,30158,28950,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Iturama,Iturama,-19.733394,-50.198003,Brazil,BR,Minas Gerais,MG,29805,12292,"R$ 8.585,00","R$ 858,50",3,54,2,N
+Jaguarão,Jaguarão,-32.566667,-53.383333,Brazil,BR,Rio Grande do Sul,RS,29613,22427,"R$ 54.545,00","R$ 5.454,50",4,70,2,I
+Pontes e Lacerda,Pontes e Lacerda,-15.22233,-59.340563,Brazil,BR,Mato Grosso,MT,29381,16008,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Almenara,Almenara,-16.175107,-40.698446,Brazil,BR,Minas Gerais,MG,29333,15014,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Tauá,Tauá,-6.0031372,-40.2947268,Brazil,BR,Ceará,CE,29188,29188,"R$ 6.598,00","R$ 659,80",3,53,2,A
+Acaraú,Acaraú,-2.883333,-40.116667,Brazil,BR,Ceará,CE,28389,13660,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Ubaitaba,Ubaitaba,-14.314773,-39.319116,Brazil,BR,Bahia,BA,28375,26448,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Icó,Icó,-6.4003992,-38.8575946,Brazil,BR,Ceará,CE,28323,3317,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Iporá,Iporá,-16.440391,-51.118436,Brazil,BR,Goiás,GO,28254,18454,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Santa Vitória do Palmar,Santa Vitória do Palmar,-33.5195569,-53.3692659,Brazil,BR,Rio Grande do Sul,RS,27775,15877,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Santa Cruz,Santa Cruz,-6.228621,-36.018081,Brazil,BR,Rio Grande do Norte,RN,27775,16232,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Óbidos,Óbidos,-1.904858,-55.517292,Brazil,BR,Pará,PA,27587,24970,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Niquelândia,Niquelândia,-14.471709,-48.455603,Brazil,BR,Goiás,GO,27541,12029,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Colíder,Colíder,-10.82781,-55.448474,Brazil,BR,Mato Grosso,MT,27139,27139,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Conceição do Araguaia,Conceição do Araguaia,-8.261792,-49.266767,Brazil,BR,Pará,PA,27115,27115,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Aripuanã,Aripuanã,-9.166667,-60.633333,Brazil,BR,Mato Grosso,MT,26983,26983,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Viana,Viana,-3.2099341,-45.0002456,Brazil,BR,Maranhão,MA,26689,4928,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Miracema,Miracema,-21.412005,-42.19428,Brazil,BR,Rio de Janeiro,RJ,26684,18445,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Ipu,Ipu,-4.325698,-40.710286,Brazil,BR,Ceará,CE,26678,2281,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Canavieiras,Canavieiras,-15.677141,-38.947917,Brazil,BR,Bahia,BA,26375,26375,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Alenquer,Alenquer,-1.947293,-54.736185,Brazil,BR,Pará,PA,26290,26290,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Sena Madureira,Sena Madureira,-9.066667,-68.666667,Brazil,BR,Acre,AC,26192,20516,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Granja,Granja,-3.120093,-40.827317,Brazil,BR,Ceará,CE,25879,8587,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Pimenta Bueno,Pimenta Bueno,-11.6767868,-61.1863902,Brazil,BR,Rondônia,RO,25762,25762,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Lapa,Lapa,-25.765833,-49.717778,Brazil,BR,Paraná,PR,25621,14248,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+São Lourenço do Sul,São Lourenço do Sul,-31.366667,-51.966667,Brazil,BR,Rio Grande do Sul,RS,25340,18006,"R$ 5.659,00","R$ 565,90",3,53,2,I
+Colinas,Colinas,-6.026631,-44.24888,Brazil,BR,Maranhão,MA,25158,1967,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Pires do Rio,Pires do Rio,-17.3024,-48.278659,Brazil,BR,Goiás,GO,24822,18554,"R$ 6.598,00","R$ 659,80",3,53,2,N
+Rolim de Moura,Rolim de Moura,-11.727595,-61.779483,Brazil,BR,Rondônia,RO,24516,24516,"R$ 5.648,00","R$ 564,80",3,53,2,I
+Iguape,Iguape,-24.705901,-47.555889,Brazil,BR,São Paulo,SP,23784,23421,"R$ 6.547,00","R$ 654,70",3,53,2,A
+Jardim,Jardim,-21.479941,-56.148902,Brazil,BR,Mato Grosso do Sul,MS,23780,18725,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Guanhães,Guanhães,-18.782653,-42.94456,Brazil,BR,Minas Gerais,MG,23727,9796,"R$ 9.797,00","R$ 979,70",3,54,2,A
+Itambé,Itambé,-15.244112,-40.620398,Brazil,BR,Bahia,BA,23558,7343,"R$ 9.898,00","R$ 989,80",3,54,2,A
+Santa Maria da Vitória,Santa Maria da Vitória,-13.390904,-44.197628,Brazil,BR,Bahia,BA,23488,2864,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Quaraí,Quaraí,-30.3818093,-56.4526576,Brazil,BR,Rio Grande do Sul,RS,23229,13695,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Nova Cruz,Nova Cruz,-6.477301,-35.431039,Brazil,BR,Rio Grande do Norte,RN,23166,21961,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Maracaju,Maracaju,-21.6163005,-55.164605,Brazil,BR,Mato Grosso do Sul,MS,22690,13622,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Baturité,Baturité,-4.333333,-38.883333,Brazil,BR,Ceará,CE,22417,13178,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Itaberaí,Itaberaí,-16.024995,-49.805937,Brazil,BR,Goiás,GO,22129,15292,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Araçuaí,Araçuaí,-16.858862,-42.06129,Brazil,BR,Minas Gerais,MG,22005,8598,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Eirunepé,Eirunepé,-6.659089,-69.870405,Brazil,BR,Amazonas,AM,21750,17175,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Barras,Barras,-4.246059,-42.294814,Brazil,BR,Piauí,PI,21597,2306,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Manicoré,Manicoré,-5.811839,-61.291641,Brazil,BR,Amazonas,AM,21549,14055,"R$ 9.860,00","R$ 986,00",3,54,2,A
+Portel,Portel,-1.936552,-50.819753,Brazil,BR,Pará,PA,21315,395,"R$ 5.458,00","R$ 545,80",3,53,2,A
+Itupiranga,Itupiranga,-5.135763,-49.323782,Brazil,BR,Pará,PA,21301,21301,"R$ 6.870,00","R$ 687,00",3,53,2,A
+Paracuru,Paracuru,-3.412282,-39.030279,Brazil,BR,Ceará,CE,21196,18524,"R$ 6.565,00","R$ 656,50",3,53,2,A
+Santa Cruz Cabrália,Santa Cruz Cabrália,-16.279733,-39.022595,Brazil,BR,Bahia,BA,19545,416,"R$ 8.585,00","R$ 858,50",3,54,2,A
+Viseu,Viseu,-1.201705,-46.138706,Brazil,BR,Pará,PA,18958,1027,"R$ 54.545,00","R$ 5.454,50",4,70,2,A
+Ceres,Ceres,-15.310395,-49.602213,Brazil,BR,Goiás,GO,18759,18558,"R$ 5.659,00","R$ 565,90",3,53,2,A
+Apodi,Apodi,-5.663898,-37.795438,Brazil,BR,Rio Grande do Norte,RN,16757,415,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Fonte Boa,Fonte Boa,-2.518404,-66.086733,Brazil,BR,Amazonas,AM,16060,11889,"R$ 6.598,00","R$ 659,80",3,53,2,A
+São Gabriel da Cachoeira,São Gabriel da Cachoeira,-0.11883,-67.085015,Brazil,BR,Amazonas,AM,15231,15231,"R$ 5.648,00","R$ 564,80",3,53,2,A
+Pedreiras,Pedreiras,-4.571263,-44.61183,Brazil,BR,Maranhão,MA,13638,13638,"R$ 6.547,00","R$ 654,70",3,53,2,I
+Barcelos,Barcelos,-0.975355,-62.924509,Brazil,BR,Amazonas,AM,12584,7353,"R$ 7.845,00","R$ 784,50",3,54,2,A
+Caracaraí,Caracaraí,1.833333,-61.133333,Brazil,BR,Roraima,RR,11368,11368,"R$ 9.797,00","R$ 979,70",3,54,2,N
+Alvorada,Alvorada,-12.480854,-49.122301,Brazil,BR,Tocantins,TO,10232,8314,"R$ 9.898,00","R$ 989,80",3,54,2,I
+Porto Nacional,Porto Nacional,-10.705838,-48.409555,Brazil,BR,Tocantins,TO,9129,9129,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Novo Airão,Novo Airão,-2.625838,-60.943524,Brazil,BR,Amazonas,AM,9049,9049,"R$ 8.484,00","R$ 848,40",3,54,2,A
+Sinop,Sinop,-11.858119,-55.505577,Brazil,BR,Mato Grosso,MT,8961,8961,"R$ 1.256,00","R$ 125,60",3,51,2,A
+Tocantinópolis,Tocantinópolis,-6.330128,-47.415982,Brazil,BR,Tocantins,TO,8750,8750,"R$ 1.919,00","R$ 191,90",3,52,2,A
+Rosário,Rosário,-2.942911,-44.25007,Brazil,BR,Maranhão,MA,6798,6798,"R$ 1.345,00","R$ 134,50",3,51,2,A
+Tonantins,Tonantins,-2.870494,-67.804058,Brazil,BR,Amazonas,AM,4561,883,"R$ 1.784,00","R$ 178,40",3,52,2,A
+Xinguara,Xinguara,-7.100569,-49.941751,Brazil,BR,Pará,PA,4047,4047,"R$ 2.510,00","R$ 251,00",3,52,2,A
+Amapá,Amapá,2.068557,-50.791687,Brazil,BR,Amapá,AP,1947,1947,"R$ 6.560,00","R$ 656,00",3,53,2,A
+Abunã,Abunã,-9.6985836,-65.3679004,Brazil,BR,Rondônia,RO,1929,1929,"R$ 8.480,00","R$ 848,00",3,54,2,A
+Príncipe da Beira,Príncipe da Beira,-12.425725,-64.422697,Brazil,BR,Rondônia,RO,956,956,"R$ 9.860,00","R$ 986,00",3,54,2,A

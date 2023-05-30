@@ -1,0 +1,17 @@
+Province/State,Country/Region,lat,lon,iso2,state_name,state_id,population,population_proper,fatur,compras,funcion,clientes,chamados,status,modelo
+Baden-Württemberg,Germany,48.6296972,9.1949534,DE,Baden-Württemberg,BW,11072030,11072030,545874,2121,3,58,2,A,smart
+Bavaria,Germany,48.9467562,11.4038717,DE,Bavaria,BY,13068686,13068686,656589,9695,5,82,6,A,premium
+Berlin,Germany,52.5170365,13.3888599,DE,Berlin,BE,3740845,3740845,525154,9695,4,65,5,A,express
+Brandenburg,Germany,52.8455492,13.2461296,DE,Brandenburg,BB,2514736,2514736,0,0,0,0,0,I,smart
+Bremen,Germany,53.1448690,8.6932343,DE,Bremen,HB,685714,685714,512541,8787,8,44,0,A,premium
+Hamburg,Germany,53.5503410,10.0006540,DE,Hamburg,HH,1843859,1843859,0,0,0,0,0,N,smart
+Hesse,Germany,50.6118537,9.1909725,DE,Hesse,HE,6254237,6254237,0,0,0,0,0,I,smart
+Lower Saxony,Germany,52.8398531,9.0759620,DE,Lower Saxony,NI,7962068,7962068,251547,2513,4,60,2,A,premium
+Mecklenburg-Vorpommern,Germany,53.7735234,12.5755746,DE,Mecklenburg-Vorpommern,MV,1635000,1635000,125895,6541,4,73,2,A,premium
+North Rhine-Westphalia,Germany,51.4781796,7.5542336,DE,North Rhine-Westphalia,NW,17967261,17967261,0,0,0,0,0,I,smart
+Rhineland-Palatinate,Germany,49.9531599,7.3106460,DE,Rhineland-Palatinate,RP,4082481,4082481,54125,5413,4,69,2,A,smart
+Saarland,Germany,49.4173988,6.9805789,DE,Saarland,SL,990376,990376,47854,4785,4,67,2,A,premium
+Saxony,Germany,50.9295798,13.4585052,DE,Saxony,SN,4069523,4069523,0,0,0,0,0,I,smart
+Saxony-Anhalt,Germany,51.9085260,11.4939134,DE,Saxony-Anhalt,ST ,2214285,2214285,0,0,0,0,0,I,smart
+Schleswig-Holstein,Germany,54.1853998,9.8220089,DE,Schleswig-Holstein,SH,2902325,2902325,25645,2565,4,60,2,A,smart
+Thuringia,Germany,50.7333163,11.0747905,DE,Thuringia,TH,2151724,2151724,0,0,0,0,0,N,smart

@@ -1,0 +1,64 @@
+Province/State,Country/Region,lat,lon,iso2,state_name,state_id,population,population_proper,fatur,compras,funcion,clientes,chamados,status,modelo
+Madrid,Spain,40.412752,-3.707721,ES,Madrid,M ,5567000,50437,65658,6566,3,58,2,A,smart
+Barcelona,Spain,41.398371,2.174100,ES,Catalonia,B,4920000,1581595,0,0,0,0,0,I,premium
+Sevilla,Spain,37.382826,-5.973167,ES,Andalusia,SE,1212045,703021,0,0,0,0,0,N,express
+Bilbao,Spain,43.260919,-2.938764,ES,Basque Country,BI,875552,353187,0,0,0,0,0,I,smart
+Valencia,Spain,39.466667,-0.366667,ES,Valencia,V,808000,805304,0,0,0,0,0,N,premium
+Zaragoza,Spain,41.645310,-0.884861,ES,Aragon,Z,649404,448507,0,0,0,0,0,N,smart
+Málaga,Spain,36.726666,-4.434802,ES,Andalusia,MA,550058,528705,0,0,0,0,0,I,smart
+Murcia,Spain,37.987041,-1.130042,ES,Murcia,MU,406807,329838,98985,9899,4,60,2,A,premium
+Granada,Spain,37.178354,-3.599201,ES,Andalusia,GR,388290,238248,54548,5455,4,73,2,A,premium
+Vigo,Spain,42.232823,-8.722637,ES,Galicia,PO,378952,292745,0,0,0,0,0,I,smart
+Palma,Spain,39.574337,2.655222,ES,Balearic Islands,IB,375773,264129,58745,5875,4,69,2,A,smart
+A Coruña,Spain,43.366609,-8.406812,ES,Galicia,C,370610,242619,59874,5987,4,67,2,A,premium
+Santa María de Gracia,Spain,28.466667,-16.266667,ES,Canary Islands,,336061,222190,0,0,0,0,0,I,smart
+Gijón,Spain,43.535731,-5.661519,ES,Asturias,O,335972,271452,0,0,0,0,0,I,smart
+Valladolid,Spain,41.655181,-4.723720,ES,Castille-Leon,VA,322304,276443,65458,6546,4,60,2,A,smart
+Córdoba,Spain,37.891550,-4.772748,ES,Andalusia,CO,321376,279648,0,0,0,0,0,N,smart
+Alicante,Spain,38.346190,-0.487722,ES,Valencia,V,315863,276827,0,0,0,0,0,N,express
+Cádiz,Spain,36.515789,-6.279692,ES,Andalusia,AN,283157,24708,84578,8458,4,70,2,A,express
+Pamplona,Spain,42.814075,-1.641153,ES,Navarre,NA,274545,193166,36541,3654,3,54,2,A,express
+Oviedo,Spain,43.363223,-5.853128,ES,Asturias,O,235651,211398,0,0,0,0,0,I,express
+Zuazo de Vitoria,Spain,42.839797,-2.722069,ES,Basque Country,PV,224578,173641,0,0,0,0,0,I,express
+Santander,Spain,43.464722,-3.804444,ES,Cantabria,CB,208763,183288,65236,6524,3,54,2,A,express
+Cartagena,Spain,37.605121,-0.986232,ES,Murcia,MU,201274,131279,65987,6599,3,54,2,A,express
+Marbella,Spain,36.510485,-4.885745,ES,Andalusia,MA,186131,120008,78456,7846,16,274,8,A,express
+Mataró,Spain,41.542113,2.444503,ES,Catalonia,B,183293,116359,48598,4860,3,51,2,A,express
+Almería,Spain,36.833333,-2.450000,ES,Andalusia,AL,179405,124660,0,0,0,0,0,N,express
+Burgos,Spain,42.350221,-3.675273,ES,Castille-Leon,BU,170183,130319,0,0,0,0,0,N,express
+Salamanca,Spain,40.968100,-5.662020,ES,Castille-Leon,SA,162353,158560,58455,5846,3,52,2,A,express
+Albacete,Spain,38.995845,-1.857773,ES,Castille-La Mancha,AB,158094,97100,98885,9889,3,54,2,A,express
+Huelva,Spain,37.266385,-6.940044,ES,Andalusia,H,144174,95290,68886,6889,0,0,0,N,express
+Logroño,Spain,42.466667,-2.450000,ES,La Rioja,LO,143698,104139,48745,4875,3,54,2,A,express
+Badajoz,Spain,38.877894,-6.970613,ES,Extremadura,BA,140133,91144,0,0,0,0,0,I,express
+León,Spain,42.600031,-5.570316,ES,Castille-Leon,LE,136227,133801,55874,5587,3,52,2,A,express
+Tarragona,Spain,41.116667,1.250000,ES,Catalonia,CT,126291,89624,66985,6699,3,54,2,A,express
+Ourense,Spain,42.331342,-7.862711,ES,Galicia,GA,118107,108083,55847,5585,3,53,2,A,express
+Jaén,Spain,37.772404,-3.790130,ES,Andalusia,AN,116400,69418,16542,1654,4,73,2,A,smart
+Algeciras,Spain,36.133257,-5.450511,ES,Andalusia,AN,111027,102348,0,0,0,0,0,I,express
+Santiago de Compostela,Spain,42.880035,-8.544826,ES,Galicia,GA,92430,83012,35654,3565,3,51,2,A,express
+Lorca,Spain,37.671192,-1.701699,ES,Murcia,MU,86119,26964,0,0,0,0,0,I,express
+Toledo,Spain,39.867263,-4.029810,ES,Castille-La Mancha,TO,74632,33125,36522,3652,3,53,2,A,express
+Guadalajara,Spain,40.628621,-3.161849,ES,Castille-La Mancha,GU,72850,30963,13131,1313,4,66,2,A,smart
+Linares,Spain,38.095193,-3.636020,ES,Andalusia,AN,59761,39338,0,0,0,0,0,I,express
+Arrecife,Spain,28.965706,-13.551378,ES,Canary Islands,CN,52944,41421,0,0,0,0,0,N,express
+Mérida,Spain,38.916109,-6.343657,ES,Extremadura,BA,52423,52423,0,0,0,0,0,N,smart
+Las Palmas de Gran Canaria,Spain,28.099727,-15.413430,ES,Canary Islands,CN,92431,83013,0,0,0,0,0,N,express
+Vitoria-Gasteiz,Spain,42.850000,-2.666667,ES,Basque Country,PV,86120,26965,0,0,0,0,0,N,express
+Castellón de la Plana,Spain,39.987497,-0.039246,ES,Valencia,V,74633,33126,22121,2212,3,54,2,A,express
+Palencia,Spain,42.009552,-4.524063,ES,Castille-Leon,CL,72851,30964,22654,2265,3,52,2,A,smart
+Lleida,Spain,41.616737,0.622183,ES,Catalonia,CT,59762,39339,29292,2929,5,79,2,A,express
+Cáceres,Spain,39.481877,-6.373222,ES,Extremadura,EX,52945,41422,59595,5960,3,53,2,A,express
+Segovia,Spain,40.948083,-4.118390,ES,Castille-Leon,CL,52424,52424,64766,6477,3,53,2,A,express
+Pontevedra,Spain,42.433333,-8.633333,ES,Galicia,GA,92432,83014,0,0,0,0,0,I,smart
+Santa Cruz de Tenerife,Spain,28.460238,-16.280616,ES,Canary Islands,CN,86121,26966,66665,6667,4,70,2,A,express
+Soria,Spain,41.764335,-2.468251,ES,Castille-Leon,CL,74634,33127,59595,5960,3,54,2,A,express
+Huesca,Spain,42.138680,-0.409411,ES,Aragon,AR,72852,30965,55959,5596,3,53,2,A,express
+Donostia,Spain,43.313556,-1.981855,ES,Basque Country,PV,59763,39340,0,0,0,0,0,I,smart
+Cuenca,Spain,40.066667,-2.133333,ES,Castille-La Mancha,CM,52946,41423,0,0,0,0,0,N,express
+Girona,Spain,41.982548,2.822449,ES,Catalonia,CT,52425,52425,55555,5556,3,53,2,A,express
+Ávila,Spain,40.657237,-4.699511,ES,Castille-Leon,CL,92433,83015,75484,7548,3,54,2,A,express
+Ciudad Real,Spain,38.986258,-3.929070,ES,Castille-La Mancha,CM,86122,26967,45458,4546,3,54,2,A,express
+Zamora,Spain,41.504940,-5.745296,ES,Castille-Leon,CL,74635,33128,0,0,0,0,0,N,express
+Lugo,Spain,43.013813,-7.558543,ES,Galicia,GA,72853,30966,0,0,0,0,0,I,express
+Teruel,Spain,40.345073,-1.104106,ES,Aragon,AR,59764,39341,88545,8855,3,52,2,A,express

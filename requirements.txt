@@ -1,0 +1,14 @@
+pandas
+xlrd
+numpy
+datetime
+babel
+plotly
+dash
+dash_bootstrap_components
+dash_core_components
+dash_html_components
+dash_daq
+dash-leaflet
+gunicorn
+

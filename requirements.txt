@@ -10,5 +10,5 @@ dash_html_components
 dash_daq
 dash-leaflet
 gunicorn==20.1.0
-pandas==1.5.0
-unicorn==2.0.1.post1
+pandas
+unicorn
